@@ -133,7 +133,7 @@ async function buildPptx() {
     if (s.kind === "cover") {
       const sl = pres.addSlide({ masterName: "DARK", sectionTitle: sec });
       sl.addText("YANA", { x: 0.8, y: 1.3, w: 11, h: 1.3, fontFace: THEME.headFontFace, fontSize: 66, bold: true, color: C.accent1, margin: 0, isTextBox: true });
-      sl.addText("77-79 Cecil Avenue, Castle Hill · Dharug Country", { x: 0.8, y: 2.7, w: 11.5, h: 0.6, fontSize: 24, color: C.background1, margin: 0, isTextBox: true });
+      sl.addText("77-79 Cecil Avenue & 25 Hume Avenue, Castle Hill · Dharug Country", { x: 0.8, y: 2.7, w: 11.5, h: 0.6, fontSize: 24, color: C.background1, margin: 0, isTextBox: true });
       sl.addText(META.subtitle, { x: 0.8, y: 3.4, w: 11.5, h: 0.5, fontSize: 18, color: C.accent6, margin: 0, isTextBox: true });
       sl.addShape(pres.shapes.ROUNDED_RECTANGLE, { x: 0.8, y: 4.6, w: 8.6, h: 1.1, rectRadius: 0.1, fill: { color: C.background1, transparency: 88 }, line: { color: C.accent1, width: 1 }, objectName: "status-box" });
       sl.addText(META.status, { x: 1.0, y: 4.6, w: 8.2, h: 1.1, fontSize: 16, color: C.background1, valign: "middle", margin: 0, isTextBox: true });

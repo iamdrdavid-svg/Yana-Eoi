@@ -1,19 +1,28 @@
 # Project YANA — EOI declaration loop: interim report
 
-5 Oct 2026 · Paused after loop 2 of 6, waiting on owner decisions. **Nothing has been lodged, submitted or sent.**
+5 Oct 2026 · Paused after loop 3 of 6, waiting on uploads and owner decisions. **Nothing has been lodged, submitted or sent.**
 
 ## Net conclusion
 
-The webform and concept-slide copy are drafted on the locked position: 38 storeys, concurrent rezoning, 3% in perpetuity. Every number now matches one register.
+The webform and concept-slide copy are drafted on the locked position: 133.9 m (38 residential storeys plus rooftop plant), 14.09:1, concurrent rezoning, 3% in perpetuity. Every number now matches one register.
 
-**The package is not ready to lodge.** Five criteria are RED:
-1. **Hazards** — no s10.7 certificate.
+**The package is not ready to lodge.** Four criteria are RED:
+1. **Hazards** — the s10.7 certificate has not been uploaded.
 2. **Affordable housing** — 3% is likely to fail the proportionality test.
 3. **Strategic merit** — at 14.09:1 YANA would be the densest scheme in the centre.
 4. **Lot size and isolation** — the cl 4.1A shortfall and a sub-minimum neighbour.
-5. **Internal consistency** — the concept pack PDF itself still shows superseded figures.
 
-**Estimated declaration probability as locked: about 15% (range 10–25%).** With a stronger affordable offer and the other items closed: about 35–45%.
+Internal consistency is now AMBER: the deliverables agree, but the 3 Oct pack PDF must be re-issued (B-0) before it is used anywhere.
+
+**Estimated declaration probability (loop 3):**
+- Locked position: about 15% (range 10–20%).
+- Variant A (10% of GFA in perpetuity): about 35%.
+- Variant B (3% in perpetuity plus 12% for 15 years): about 30%.
+- The upper bound fell after loop 2 because fixing FSR at 14.09:1 removed the density mitigation.
+
+**Loop 3 inputs:**
+- The owner's answers on lot mapping (25 Hume Ave is in the site) and FSR (14.09:1) are recorded.
+- The new documents named in those answers did not arrive, and the network is still blocked.
 
 **Research caveat.** Research rests on search summaries, because this environment blocked every NSW Government site. Treat every procedural finding as unverified until CA-0 is done.
 
@@ -23,9 +32,9 @@ The webform and concept-slide copy are drafted on the locked position: 38 storey
 |---|---|---|
 | 1.1 Housing type | GREEN | — |
 | 1.2 State significance | AMBER | One certified EDC (OD-6) |
-| 2.1 Standards / rezoning | AMBER | 12:1 vs 14.09:1 (OD-3) |
+| 2.1 Standards / rezoning | GREEN | FSR 14.09:1 owner-confirmed |
 | 2.2 Lodge 9 / start 12 | AMBER | Target start, builder, funding (OD-7) |
-| 2.3 Tenure | AMBER | 25 Hume Ave in or out (OD-1); titles |
+| 2.3 Tenure | AMBER | Lot mapping owner-confirmed; Portal reports, s10.7 and titles not uploaded |
 | 2.4 Contributions | GREEN | Plan name |
 | 2.5 Prior refusal | AMBER | Register search (CA-2) |
 | 3.1 Transport | GREEN | Measured route plan (B-2) |
@@ -36,7 +45,7 @@ The webform and concept-slide copy are drafted on the locked position: 38 storey
 | 4.2 Strategic merit / height | **RED** | Densest in centre at 14.09:1; Hills 4.2 failures |
 | Lot size / isolation | **RED** | B-6 study; CA-5 |
 | Prior non-declarations on the block | AMBER | HDA records (CA-0) |
-| Internal consistency | **RED** | Re-issue pack (B-0) |
+| Internal consistency | AMBER | Deliverables consistent; the old pack PDF must not be lodged before B-0 re-issue; storey count open |
 
 Full reasoning: `state/scorecard.md`.
 
@@ -56,6 +65,12 @@ Height alone is not fatal: Castle Hill has a declared 40-storey concurrent rezon
 - Ran search-only research and drafted.
 - Red team: five RED.
 
+**Loop 3**
+- Recorded the owner answers.
+- Rebuilt the webform and slides (height first, three lots, 14.09:1).
+- Re-scored: 2.1 GREEN; consistency AMBER; 4.2 harder.
+- Uploads absent; network blocked; OD-4 to OD-7 not yet decided.
+
 **Loop 2**
 - Reconciled every figure to the register.
 - Stripped superseded and unsupported claims (40-storey, 12:1, 15%, investor wording, TOD, LMR).
@@ -70,9 +85,9 @@ All are in `outputs/owner_decisions.md`:
 
 | ID | Decision |
 |---|---|
-| OD-1 | Is 25 Hume Ave in the site? The pack shows it outside |
-| OD-2 | 38 or 39 storeys under the Standard Instrument definition (L38 is plant) |
-| OD-3 | Declare 12:1 or 14.09:1 |
+| OD-1 | CLOSED: 25 Hume Ave is in the site (verification pending uploads) |
+| OD-2 | OPEN with the planner: 38 or 39 storeys (L38 is plant) |
+| OD-3 | CLOSED: 14.09:1 |
 | OD-4 | 3% of GFA or of dwellings; standalone or hybrid |
 | OD-5 | Developer, builder, community housing provider |
 | OD-6 | One QS-certified EDC |

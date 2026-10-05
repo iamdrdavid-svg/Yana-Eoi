@@ -1,6 +1,6 @@
 # Project YANA — HDA EOI webform answers (locked position)
 
-**Status: DRAFT, not ready to lodge.** Loop 2, 5 Oct 2026. Locked position: 38 storeys, concurrent rezoning, 3% affordable housing in perpetuity, applicant Lifex Pty Ltd.
+**Status: DRAFT, not ready to lodge.** Loop 3, 5 Oct 2026. Locked position: 38 residential storeys plus rooftop plant (133.9 m), concurrent rezoning, 3% affordable housing in perpetuity, applicant Lifex Pty Ltd.
 
 How to use this file:
 - **`[MISSING: …]`** marks something the owner or a consultant must supply. Nothing goes into the form while one remains.
@@ -16,9 +16,12 @@ How to use this file:
 State significant development with a concurrent rezoning.
 
 **1.2 Site address(es), Lot and DP**
-77-79 Cecil Avenue and 25 Hume Avenue, Castle Hill NSW 2154 — Lots 1, 2 and 3 DP 713156. Corner of Cecil Avenue and Hume Avenue. Total site area 2,048 m².
-`[MISSING: OD-1 — the concept pack (p23) shows 25 Hume Avenue as an adjoining 2,600 m² lot outside the site. Confirm which addresses make up Lots 1-3 DP 713156 before this answer is used.]`
-> Source notes: A1, A2, A3. Pack p2, p23.
+- 25 Hume Avenue, Castle Hill NSW 2154 — Lot 1 DP 713156
+- 79 Cecil Avenue, Castle Hill NSW 2154 — Lot 2 DP 713156
+- 77 Cecil Avenue, Castle Hill NSW 2154 — Lot 3 DP 713156
+
+Corner of Cecil Avenue and Hume Avenue. Total site area 2,048 m².
+> Source notes: A1–A3; owner answer OA-1 (5 Oct 2026). **Verify against the Planning Portal reports and the s10.7 certificate before pasting — those files are not yet in `inputs/`.** Pack p23 red line is a drawing error (brief B-0).
 
 **1.3 Local government area**
 The Hills Shire.
@@ -32,8 +35,8 @@ The Hills Local Environmental Plan 2019 (R4 High Density Residential; height of 
 > Source notes: A4–A7. Pack p14; locked position. Primary LEP text not read (R-research note).
 
 **1.6 Description of development**
-Demolition of existing structures. Construction of a 38-storey residential tower on a podium, with 243 apartments, ground-floor retail and residential lobby, Level 1 resident amenity, and two basement levels. The tower has a maximum height of 133.9 m, including a 6 m design tolerance. Gross floor area is 28,865 m². The mix is 17% one-bedroom, 47% two-bedroom, 26% three-bedroom and 10% four-bedroom. 3% of residential GFA will be affordable housing in perpetuity. The scheme relies on a concurrent amendment to the height of buildings map and a site-specific provision to clause 4.1A.
-> Source notes: B1–B7, B10, B13. Pack p24. Storey count convention: OD-2.
+Demolition of existing structures. Construction of a residential tower with a maximum height of 133.9 m, including a 6 m design tolerance: 38 residential storeys plus rooftop plant, on a podium, with 243 apartments, ground-floor retail and residential lobby, Level 1 resident amenity, and two basement levels. Gross floor area is 28,865 m² (14.09:1). The mix is 17% one-bedroom, 47% two-bedroom, 26% three-bedroom and 10% four-bedroom. 3% will be affordable housing in perpetuity `[basis — of residential GFA or of dwellings — NOT YET DECIDED]`. The scheme relies on a concurrent amendment to the height of buildings map and a site-specific provision to clause 4.1A.
+> Source notes: B1–B7, B10, B13. Pack p24. Storey count open with the planner (OD-2): keep this wording until confirmed.
 
 **1.7 Number of new dwellings**
 243 dwellings. `[MISSING: existing dwellings on site, for the net figure]`
@@ -72,7 +75,7 @@ Single tower on a podium. Ground floor: retail and lobby. Level 1: resident amen
 Equal to or greater than $60 million (Greater Sydney).
 
 **3.4 EDC of residential component ($m)**
-`[MISSING: OD-6 — one QS-certified figure for the 38-storey scheme. The pack shows a range ($138–155M); an earlier draft shows $195.77M. Neither can be entered.]`
+`[MISSING: OD-6 — one QS-certified figure for the current scheme (owner: not yet decided). The pack shows a range ($138–155M); an earlier draft shows $195.77M. Neither can be entered.]`
 
 ## 4. Development detail (deliverability)
 
@@ -84,7 +87,7 @@ Yes. The maximum height of 133.9 m exceeds the 16 m height of buildings standard
 - an amended height of buildings map
 - a site-specific clause 4.1A provision
 - a site-specific affordable housing provision securing the 3% in perpetuity
-> Source notes: A5–A7, B2, B6, B8. 133.9 ÷ 16 = 8.37. FSR conflict with pack p2 "12:1": OD-3.
+> Source notes: A5–A7, B2, B6, B8. 133.9 ÷ 16 = 8.37. FSR 14.09:1 owner-confirmed (OA-3).
 
 **4.3 Commitment to lodge within 9 months of SEARs**
 Yes. The programme provides for scoping and EIS preparation from November 2026, SEARs by 22 January 2027 and SSD lodgement by 1 October 2027. That is within 9 months of SEARs. Urbis (planning), Furtado Sullivan (architecture) and Arcadia (landscape and urban design) prepared the concept and pathway work.
@@ -113,7 +116,7 @@ The site is about 623 m walk from Castle Hill Metro Station, within 10 minutes o
 > Source notes: A8. Pack p2, p7, p8, p12.
 
 **5.2 Hazards (bushfire, flood, contamination, landslip, mine subsidence, high-risk infrastructure)**
-`[MISSING: A9 — the s10.7 planning certificate and a desktop hazard screen. Do not answer "none of the above" until both are in hand. An earlier pack version reportedly described the land as "Flood Controlled Land"; the current pack is silent.]`
+`[MISSING: A9 — the owner reports a s10.7 certificate for 79 Cecil Ave, but it is not in inputs/ as at loop 3. Upload it, ideally with certificates for 25 Hume Ave and 77 Cecil Ave as well, since a certificate covers only its own lot. Then quote the exact flood wording here and run a desktop hazard screen. Do not answer "none of the above" until both are in hand. The current concept pack is silent on flood.]`
 
 ## 6. Well-serviced (criterion 3.2)
 
@@ -124,13 +127,14 @@ Yes, on preliminary investigation. Power, water, sewer and telecommunications co
 ## 7. Affordable housing (criterion 3.3)
 
 **7.1 Affordable housing contribution: percentage, form, ownership, tenure**
-- **Rate:** 3% of residential gross floor area, about 866 m². `[MISSING: dwelling count and schedule from the architect; about 7 dwellings indicatively]`
+- **Rate:** 3% `[NOT YET DECIDED: of residential gross floor area (about 866 m²) or of dwellings (about 7)]`. About 7 dwellings either way. `[MISSING: dwelling schedule from the architect, brief B-8]`
+- **Structure:** `[NOT YET DECIDED: 3% standing alone, or 3% in perpetuity plus a time-limited share — see Variant B]`
 - **Form:** completed affordable rental dwellings within the building, with the same access to communal amenity as other residents.
 - **Ownership and management:** `[MISSING: OD-5 — retained by Lifex and managed by, or transferred to, a named registered community housing provider]`
 - **Tenure:** in perpetuity, secured by a site-specific provision in the LEP amendment.
 
 The offer is made in perpetuity because the uplift sought is significant. Current HDA guidance asks for perpetual offers in that case and recognises that a perpetual rate will generally be lower than a 15-year rate.
-> Source notes: B13. R-a2–R-a4 (LOCATED, primary text not read). Basis "of residential GFA": OD-4. **Red-team finding: see `state/scorecard.md` 3.3 and `outputs/owner_decisions.md` OD-8. A variant answer is at the end of this file.**
+> Source notes: B13. R-a2–R-a4 (LOCATED, primary text not read). Basis (GFA or dwellings) and standalone vs hybrid: not yet decided (OD-4). **Red-team finding: see `state/scorecard.md` 3.3 and `outputs/owner_decisions.md` OD-8. A variant answer is at the end of this file.**
 
 ## 8. Concurrent rezoning and strategic merit (criteria 4.1, 4.2)
 

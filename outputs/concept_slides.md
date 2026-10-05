@@ -1,25 +1,25 @@
-# YANA — 77-79 Cecil Avenue, Castle Hill — concept scheme slide copy
+# YANA — 77-79 Cecil Avenue & 25 Hume Avenue, Castle Hill — concept scheme slide copy
 
-**Indicative only — not for determination. Draft for owner review, loop 2, 5 October 2026.**
+**Indicative only — not for determination. Draft for owner review, loop 3, 5 October 2026.**
 
 Every statement is tagged **FACT (source)**, **DESIGN PROPOSITION** or **MATTER FOR FUTURE ASSESSMENT**. Source IDs refer to `state/metrics_register.md` (pack pages) and `state/research_log.md` (R-…). R-references are search-located and must be verified before lodgement. Drawings are placeholders; each cites a brief in the appendix. Generated from `tools/slides_data.js` — edit there, then rebuild.
 
 ## Slide 1 — Cover
 
-YANA — 77-79 Cecil Avenue, Castle Hill
+YANA — 77-79 Cecil Avenue & 25 Hume Avenue, Castle Hill
 
 HDA expression of interest · concept scheme · SSD with concurrent rezoning
 
-_Indicative only — not for determination. Draft for owner review, loop 2, 5 October 2026._
+_Indicative only — not for determination. Draft for owner review, loop 3, 5 October 2026._
 
 ## Slide 2 — Proposition
 
 **243 homes, 623 m from Castle Hill Metro, with 3% affordable housing in perpetuity**
 
-**243** homes · **38** storeys · **623 m** walk to Metro · **3%** affordable, in perpetuity
+**243** homes · **133.9 m** height incl. 6 m tolerance · **623 m** walk to Metro · **3%** affordable, in perpetuity
 
 - **FACT** (Pack p2, p14): 2,048 m² corner site at Cecil and Hume Avenues, zoned R4 High Density Residential.
-- **DESIGN PROPOSITION** (Pack p24): A single tower on a podium with 28,865 m² gross floor area, retail at ground level and resident amenity on Level 1.
+- **DESIGN PROPOSITION** (Pack p24; storey count with planner): A single tower, 133.9 m including a 6 m design tolerance: 38 residential storeys plus rooftop plant on a podium. 28,865 m² GFA (14.09:1).
 - **MATTER FOR FUTURE ASSESSMENT**: Final height, floor space, affordable dwelling count and impacts are put forward for testing through SEARs, design review and exhibition.
 
 ## Slide 3 — Site and access
@@ -29,7 +29,7 @@ _Indicative only — not for determination. Draft for owner review, loop 2, 5 Oc
 - **FACT** (Pack p2, p7, p8): About 623 m walk to Castle Hill Metro: Chatswood about 20 minutes, Sydney CBD about 35 minutes.
 - **FACT** (Pack p8): Bus routes 600, 603 and 610X stop on Old Northern Road, about 7 minutes' walk.
 - **FACT** (Pack p12): Castle Towers, Castle Mall, the library, schools and the police station are within walking distance.
-- **FACT** (Pack p3; OD-1): Held in consolidated ownership — no further amalgamation required. Title evidence to follow.
+- **FACT** (Pack p3; owner 5 Oct 2026; title evidence to follow): Three lots, Lots 1-3 DP 713156 (25 Hume Ave, 79 Cecil Ave, 77 Cecil Ave), in consolidated ownership. No further amalgamation needed.
 - **Drawing placeholder:** brief B-2 — Measured walking-route plan to Castle Hill Metro
 
 ## Slide 4 — Strategic framework
@@ -53,7 +53,7 @@ _Drafting note: Hard rule 2: no reliance on the Appendix D map, no radius claim,
 | 2-4 & 22-28 Garthowen Cres | up to 36 | 355 | 15% of GFA | HDA briefing | Pack p17 |
 | 36 Carrington Rd | up to 40 | 394 | 15% | Preparing EIS | Pack p16 |
 | 325-329 Old Northern Rd | 25 | 148 | 5%, in perpetuity | SSD proposed | R-c5 |
-| YANA, 77-79 Cecil Ave | 38 | 243 | 3%, in perpetuity | EOI | Pack p24 |
+| YANA, 77-79 Cecil & 25 Hume | 38 + plant | 243 | 3%, in perpetuity | EOI | Pack p24 |
 
 - **FACT** (CA-0): All comparator figures are from search-located records, to be verified against DPHI sources before lodgement.
 - **Drawing placeholder:** brief B-5 — Comparator board — centre massing
@@ -82,9 +82,9 @@ _Drafting note: Hard rule 2: no reliance on the Appendix D map, no radius claim,
 
 **The neighbouring holdings keep developable footprints, subject to testing**
 
-- **FACT** (Pack p23 (marked DRAFT)): Draft site study shows indicative footprints on 81-87 Cecil Ave (8,416 m²) and a 2,600 m² lot to the south-west.
+- **FACT** (Pack p23 (marked DRAFT; site red line to be corrected, B-0)): Draft site study shows indicative footprints on 81-87 Cecil Ave (8,416 m²) and a 2,600 m² adjoining lot to the south-west.
 - **FACT** (Pack p23): Existing built form is set back about 25 m (Cecil Ave) and 22 m (Hume Ave) from the site boundary.
-- **MATTER FOR FUTURE ASSESSMENT** (Brief B-6; OD-1): Separation, solar access and the south-west lot's own clause 4.1A position are to be demonstrated.
+- **MATTER FOR FUTURE ASSESSMENT** (Brief B-6): Separation, solar access and the south-west lot's own clause 4.1A position are to be demonstrated.
 - **Drawing placeholder:** brief B-6 — Adjoining-site developability study
 
 ## Slide 9 — Impacts summary
@@ -99,13 +99,13 @@ _Drafting note: Hard rule 2: no reliance on the Appendix D map, no radius claim,
 
 ## Slide 10 — Housing and affordable housing
 
-**243 homes across six apartment types, with 3% of floor space held as affordable housing in perpetuity**
+**243 homes across six apartment types, with 3% held as affordable housing in perpetuity**
 
 **17%** one-bed (42) · **47%** two-bed (114) · **26%** three-bed (63) · **10%** four-bed (24)
 
 - **FACT** (Pack p24): Mix: 42 one-bed, 60 two-bed, 54 two-bed + study, 36 three-bed, 27 three-bed + study, 24 four-bed + study.
-- **DESIGN PROPOSITION** (Locked position; count to confirm (B-8)): 3% of residential GFA (about 866 m², about 7 homes) as affordable rental in perpetuity, secured in the LEP amendment.
-- **MATTER FOR FUTURE ASSESSMENT** (OD-4, OD-5): Community housing provider, dwelling schedule and distribution are to be confirmed.
+- **DESIGN PROPOSITION** (Locked position; basis not yet decided (B-8)): 3% as affordable rental in perpetuity, secured in the LEP amendment: about 7 homes whether measured on GFA (about 866 m²) or on dwellings.
+- **MATTER FOR FUTURE ASSESSMENT** (Owner decision pending): Basis (GFA or dwellings), community housing provider, dwelling schedule and distribution are to be confirmed.
 - **Drawing placeholder:** brief B-8 — Affordable housing schedule and distribution
 
 ## Slide 11 — Deliverability and programme
@@ -116,7 +116,7 @@ Oct 2026: EOI → 22 Jan 2027: SEARs → 1 Oct 2027: SSDA lodged → 10 Oct 2028
 
 - **FACT** (Pack p26): Scoping and EIS preparation are programmed from 2 November 2026.
 - **FACT** (Pack p3, p13): Consolidated site; demolition is the only enabling work; no off-site infrastructure is needed first.
-- **MATTER FOR FUTURE ASSESSMENT** (OD-7): Target start date, builder and funding statement to be confirmed.
+- **MATTER FOR FUTURE ASSESSMENT** (Owner decision pending): Target start date, builder and funding statement to be confirmed.
 
 ## Slide 12 — Why this pathway
 
@@ -140,13 +140,13 @@ Oct 2026: EOI → 22 Jan 2027: SEARs → 1 Oct 2027: SSDA lodged → 10 Oct 2028
 
 **To:** Furtado Sullivan
 
-Correct p5, p27, p28 from '40-storey/40-level' to 38 storeys. Replace the p2 '12:1' headline with the figure agreed under OD-3 (schedule currently gives 28,865 m² GFA = 14.09:1). Replace '15% affordable' (p2, p27) with '3% of residential GFA in perpetuity'. Delete the investor wording on p20 and the 'TOD targets' and 'LEP/LMR + 30%' claims on p19-20 unless Urbis supplies a primary source. Check the p24 unit table row alignment (2 units sit on the L38 plant row). Correct the p26 '275-day' label (dates span 372 days). Confirm the p16 status of 325-329 Old Northern Rd (now reported as live SSD-135694240). Re-label p23 once OD-1 is settled.
+Correct p5, p27, p28 from '40-storey/40-level' to '38 residential storeys plus rooftop plant', with the height (133.9 m including 6 m design tolerance) stated first (storey count open with the planner). Replace the p2 '12:1' headline with 14.09:1 (28,865 m² GFA ÷ 2,048 m²), owner-confirmed; 12:1 must not appear anywhere. Correct the p23 red line to include 25 Hume Ave (Lot 1 DP 713156) with 77 Cecil Ave (Lot 3) and 79 Cecil Ave (Lot 2), 2,048 m² in total, and re-label the 2,600 m² adjoining lot with its actual address. Replace '15% affordable' (p2, p27) with '3% in perpetuity' (basis — GFA or dwellings — per owner decision). Delete the investor wording on p20 and the 'TOD targets' and 'LEP/LMR + 30%' claims on p19-20 unless Urbis supplies a primary source. Check the p24 unit table row alignment (2 units sit on the L38 plant row). Correct the p26 '275-day' label (dates span 372 days). Confirm the p16 status of 325-329 Old Northern Rd (now reported as live SSD-135694240).
 
 ### B-1 — Site map for webform upload
 
 **To:** Registered surveyor / Furtado Sullivan
 
-A3, north point, scale bar. Red line on the title boundary of Lots 1-3 DP 713156 with each lot labelled by Lot/DP and street address, total area (2,048 m² to be confirmed by survey), street names, and adjoining lots labelled by address. Settle OD-1 (25 Hume Ave) before drawing.
+A3, north point, scale bar. Red line on the title boundary of Lot 1 DP 713156 (25 Hume Ave), Lot 2 DP 713156 (79 Cecil Ave) and Lot 3 DP 713156 (77 Cecil Ave), each labelled, total area (2,048 m² to be confirmed by survey), street names, and adjoining lots labelled by address. Check the lot layout against the Planning Portal reports and the s10.7 certificate.
 
 ### B-2 — Measured walking-route plan to Castle Hill Metro
 
@@ -176,7 +176,7 @@ One axonometric of the Castle Hill centre from the south-east, showing YANA and 
 
 **To:** Furtado Sullivan / Arcadia
 
-Plan and 3D massing showing a plausible residential envelope on each adjoining holding (81-87 Cecil Ave, 8,416 m²; the 2,600 m² lot to the south-west, address to be confirmed under OD-1), each meeting ADG building separation to YANA and achieving 2 hours mid-winter solar to 70% of its own apartments. State the assumed height and FSR for each and whether each meets cl 4.1A on its own. Include a mid-winter shadow overlay from YANA on both.
+Plan and 3D massing showing a plausible residential envelope on each adjoining holding (81-87 Cecil Ave, 8,416 m²; the 2,600 m² adjoining lot to the south-west — not 25 Hume Ave, which is part of the site (owner, 5 Oct 2026); confirm its address), each meeting ADG building separation to YANA and achieving 2 hours mid-winter solar to 70% of its own apartments. State the assumed height and FSR for each and whether each meets cl 4.1A on its own. Include a mid-winter shadow overlay from YANA on both.
 
 ### B-7 — Mid-winter shadow diagrams
 
@@ -188,4 +188,4 @@ Plan and 3D massing showing a plausible residential envelope on each adjoining h
 
 **To:** Furtado Sullivan
 
-Schedule of affordable dwellings equal to 3% of residential GFA (about 866 m²; confirm count), by level and type, shown on a stacking diagram. Distribute across at least three levels; same finishes and amenity access as market apartments. Basis (GFA vs dwellings) per OD-4.
+Schedule of affordable dwellings equal to 3% of residential GFA (about 866 m²; confirm count), by level and type, shown on a stacking diagram. Distribute across at least three levels; same finishes and amenity access as market apartments. Basis (GFA vs dwellings) not yet decided by the owner; show both counts.
