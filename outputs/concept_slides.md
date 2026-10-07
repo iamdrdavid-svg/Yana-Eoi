@@ -1,8 +1,8 @@
 # YANA — 77-79 Cecil Avenue & 25 Hume Avenue, Castle Hill — concept scheme slide copy
 
-**Indicative only — not for determination. Draft for owner review, loop 3, 5 October 2026.**
+**Indicative only — not for determination. Draft for owner review, loop 4, 7 October 2026.**
 
-Every statement is tagged **FACT (source)**, **DESIGN PROPOSITION** or **MATTER FOR FUTURE ASSESSMENT**. Source IDs refer to `state/metrics_register.md` (pack pages) and `state/research_log.md` (R-…). R-references are search-located and must be verified before lodgement. Drawings are placeholders; each cites a brief in the appendix. Generated from `tools/slides_data.js` — edit there, then rebuild.
+Every statement is tagged **FACT (source)**, **DESIGN PROPOSITION** or **MATTER FOR FUTURE ASSESSMENT**. Source IDs refer to `state/metrics_register.md` (pack pages) and `state/research_log.md` (R-…). R-h to R-k references were read from source on 7 Oct 2026; earlier R-references are search-located. The planner checks all of them before lodgement. Drawings are placeholders; each cites a brief in the appendix. Generated from `tools/slides_data.js` — edit there, then rebuild.
 
 ## Slide 1 — Cover
 
@@ -10,7 +10,7 @@ YANA — 77-79 Cecil Avenue & 25 Hume Avenue, Castle Hill
 
 HDA expression of interest · concept scheme · SSD with concurrent rezoning
 
-_Indicative only — not for determination. Draft for owner review, loop 3, 5 October 2026._
+_Indicative only — not for determination. Draft for owner review, loop 4, 7 October 2026._
 
 ## Slide 2 — Proposition
 
@@ -36,26 +36,27 @@ _Indicative only — not for determination. Draft for owner review, loop 3, 5 Oc
 
 **Current State policy asks for housing capacity that will actually be built, in serviced centres**
 
-- **FACT** (R-e1 (to verify)): The Sydney Plan (V1.0) commenced on 13 August 2026 with the State Land Use Plan as the current framework.
+- **FACT** (R-k1): The Sydney Plan (V1.0) commenced on 13 August 2026 with the State Land Use Plan as the current framework.
 - **FACT** (R-e2 (to verify)): The SLUP Feasible Housing Capacity Policy (Appendix C) separates zoned capacity from capacity that is feasible and realisable.
-- **FACT** (R-g1 (to verify)): The Hills Shire's target is 23,300 completed homes by 2029.
+- **FACT** (R-k6): The Hills Shire's target is 23,300 completed homes by 2029.
 - **DESIGN PROPOSITION**: YANA turns a 16 m control on a 2,048 m² lot into a defined, serviced, programmed scheme of 243 homes. The framework does not set its height or FSR.
 
 _Drafting note: Hard rule 2: no reliance on the Appendix D map, no radius claim, s9.1 direction not presented as binding on the EOI._
 
 ## Slide 5 — Comparator board
 
-**Castle Hill already has towers of 25 to 40 storeys in the State pipeline**
+**Castle Hill already has towers of up to 40 storeys in the State pipeline**
 
 | Site | Storeys | Homes | Affordable offer | Status | Source |
 |---|---|---|---|---|---|
-| 16-20 Old Castle Hill Rd | 40 | 371 | 42 homes, 15 years | Declared; EIS exhibited Oct 2026 | R-c1 |
-| 2-4 & 22-28 Garthowen Cres | up to 36 | 355 | 15% of GFA | HDA briefing | Pack p17 |
+| 16-20 Old Castle Hill Rd | 40 | 371 | 42 homes, 15 years | Declared; EIS exhibited 1-15 Oct 2026 | R-j5 |
+| 2-4 & 22-28 Garthowen Cres | up to 36 | 355 | 15% of GFA, 15 years | Recommended 15 Jun 2026 | R-j3 |
 | 36 Carrington Rd | up to 40 | 394 | 15% | Preparing EIS | Pack p16 |
-| 325-329 Old Northern Rd | 25 | 148 | 5%, in perpetuity | SSD proposed | R-c5 |
+| 93-107 Cecil Ave & 9-10 Roger Ave | 23 to 35 | 610 | 117 homes | SSD under assessment | Owner, Sep 2026 |
+| 244-248 Old Northern Rd | not stated | up to 200 | 10% | Declared; preparing EIS | R-j6 |
 | YANA, 77-79 Cecil & 25 Hume | 38 + plant | 243 | 3%, in perpetuity | EOI | Pack p24 |
 
-- **FACT** (CA-0): All comparator figures are from search-located records, to be verified against DPHI sources before lodgement.
+- **FACT** (Research log section j): Rows marked R-j were read from DPHI and Planning Portal pages on 7 October 2026. The planner is to check every row before lodgement.
 - **Drawing placeholder:** brief B-5 — Comparator board — centre massing
 
 ## Slide 6 — Existing control vs proposal
@@ -63,7 +64,7 @@ _Drafting note: Hard rule 2: no reliance on the Appendix D map, no radius claim,
 **Current controls allow about 16 m; the proposal seeks 133.9 m through a concurrent rezoning**
 
 - **FACT** (Pack p14; locked position): LEP height of buildings 16 m. No mapped FSR. Clause 4.1A minimum site area for a residential flat building is 4,000 m².
-- **FACT** (R-f2 (Urbis to verify)): The in-fill affordable housing bonus adds up to 30% height, to about 20.8 m.
+- **FACT** (R-k2, R-k3; planner to confirm inner or outer area): Low and Mid-Rise housing standards apply around Castle Hill: 17.5 m at this distance. The in-fill affordable housing bonus adds 30%, to 22.75 m.
 - **DESIGN PROPOSITION** (Pack p24): Proposal: 127.9 m to top of plant, 133.9 m including a 6 m design tolerance. Ground RL 121.00, top RL 254.90.
 - **MATTER FOR FUTURE ASSESSMENT**: Whether this height is appropriate is a matter for full merit assessment.
 - **Drawing placeholder:** brief B-3 — Existing-control line vs proposal elevation
@@ -93,7 +94,7 @@ _Drafting note: Hard rule 2: no reliance on the Appendix D map, no radius claim,
 
 - **FACT** (Pack p13): Power, water, sewer and telecoms connections identified; one 150 mm sewer main at the north-east corner to divert or avoid.
 - **FACT** (Pack p10): Heritage items nearby: Former Castle Hill Public School, St Paul's Cemetery and Wansbrough House.
-- **FACT** (s10.7 certificate outstanding (CA-3)): Flood, bushfire and contamination status not yet confirmed.
+- **FACT** (s10.7 cert 121562, Jan 2023; current certificates for all three lots to follow): 79 Cecil Ave: not in the flood planning area, not bush fire prone, no contamination or landslip policy applies.
 - **MATTER FOR FUTURE ASSESSMENT** (Brief B-7): Overshadowing, wind, traffic, parking, heritage setting and views are to be assessed in the EIS.
 - **Drawing placeholder:** brief B-7 — Mid-winter shadow diagrams
 
@@ -120,12 +121,12 @@ Oct 2026: EOI → 22 Jan 2027: SEARs → 1 Oct 2027: SSDA lodged → 10 Oct 2028
 
 ## Slide 12 — Why this pathway
 
-**Only a concurrent rezoning can test this envelope; the in-fill bonus reaches about six storeys**
+**No other State pathway delivers this housing: the in-fill bonus yields fewer than 50 homes**
 
-- **FACT** (R-f2 (Urbis to verify)): In-fill bonus: up to +30% height for 15% affordable for 15 years. On this site, about 20.8 m.
+- **FACT** (Research log section l; planner to confirm): In-fill bonus on the Low and Mid-Rise standard: 22.75 m and 1.95:1, about 34 homes; at most 28.6 m and 2.86:1, about 49 homes. Both are under the 100-home State significance threshold.
 - **FACT** (Locked position): Clause 4.1A requires 4,000 m² for a residential flat building; the site is 2,048 m².
 - **DESIGN PROPOSITION** (Pack p6): The HDA pathway lets DPHI, council, agencies and the community assess the controls, design and public benefit together.
-- **MATTER FOR FUTURE ASSESSMENT** (R-f3; CA-4): Status of council's draft Castle Hill Precinct Plan to be confirmed at lodgement.
+- **MATTER FOR FUTURE ASSESSMENT** (Owner to approve): The right height for this site is a matter for merit assessment; a lower outcome than proposed is accepted as possible.
 
 ## Slide 13 — The ask
 
@@ -140,17 +141,17 @@ Oct 2026: EOI → 22 Jan 2027: SEARs → 1 Oct 2027: SSDA lodged → 10 Oct 2028
 
 **To:** Furtado Sullivan
 
-Correct p5, p27, p28 from '40-storey/40-level' to '38 residential storeys plus rooftop plant', with the height (133.9 m including 6 m design tolerance) stated first (storey count open with the planner). Replace the p2 '12:1' headline with 14.09:1 (28,865 m² GFA ÷ 2,048 m²), owner-confirmed; 12:1 must not appear anywhere. Correct the p23 red line to include 25 Hume Ave (Lot 1 DP 713156) with 77 Cecil Ave (Lot 3) and 79 Cecil Ave (Lot 2), 2,048 m² in total, and re-label the 2,600 m² adjoining lot with its actual address. Replace '15% affordable' (p2, p27) with '3% in perpetuity' (basis — GFA or dwellings — per owner decision). Delete the investor wording on p20 and the 'TOD targets' and 'LEP/LMR + 30%' claims on p19-20 unless Urbis supplies a primary source. Check the p24 unit table row alignment (2 units sit on the L38 plant row). Correct the p26 '275-day' label (dates span 372 days). Confirm the p16 status of 325-329 Old Northern Rd (now reported as live SSD-135694240).
+Correct p5, p27, p28 from '40-storey/40-level' to '38 residential storeys plus rooftop plant', with the height (133.9 m including 6 m design tolerance) stated first (storey count open with the planner). Replace the p2 '12:1' headline with 14.09:1 (28,865 m² GFA ÷ 2,048 m²), owner-confirmed; 12:1 must not appear anywhere. Correct the p23 red line to include 25 Hume Ave (Lot 1 DP 713156) with 77 Cecil Ave (Lot 3) and 79 Cecil Ave (Lot 2), 2,048 m² in total, and re-label the 2,600 m² adjoining lot with its actual address. Replace '15% affordable' (p2, p27) with '3% in perpetuity' (basis — GFA or dwellings — per owner decision). Delete the investor wording on p20 and the 'TOD targets' and 'LEP/LMR + 30%' claims on p19-20 unless the planner supplies a primary source. Check the p24 unit table row alignment (2 units sit on the L38 plant row). Correct the p26 '275-day' label (dates span 372 days). The p16 status of 325-329 Old Northern Rd ('SEARs expired') matches the Portal page for SSD-86785964; say so with the SSD number. Delete the p26 'HDA EOI 10 Aug-30 Oct 2026' window: EOIs are continuous. Replace Urbis with the current planner wherever named. Add one line on hazards from the planning certificates. Export under 20 MB: the form rejects larger files and the 3 Oct export is 31 MB.
 
 ### B-1 — Site map for webform upload
 
 **To:** Registered surveyor / Furtado Sullivan
 
-A3, north point, scale bar. Red line on the title boundary of Lot 1 DP 713156 (25 Hume Ave), Lot 2 DP 713156 (79 Cecil Ave) and Lot 3 DP 713156 (77 Cecil Ave), each labelled, total area (2,048 m² to be confirmed by survey), street names, and adjoining lots labelled by address. Check the lot layout against the Planning Portal reports and the s10.7 certificate.
+Export as PNG or JPG under 20 MB (the form does not accept PDF for the map). A3, north point, scale bar. Red line on the title boundary of Lot 1 DP 713156 (25 Hume Ave), Lot 2 DP 713156 (79 Cecil Ave) and Lot 3 DP 713156 (77 Cecil Ave), each labelled, total area (2,048 m² to be confirmed by survey), street names, and adjoining lots labelled by address. Check the lot layout against the Planning Portal reports and the s10.7 certificate.
 
 ### B-2 — Measured walking-route plan to Castle Hill Metro
 
-**To:** Urbis / Arcadia
+**To:** Planner / Arcadia
 
 1:5,000 at A3. Shortest public pedestrian route from the site's nearest pedestrian entry point to the nearest Castle Hill Metro station entrance, measured along footpaths and crossings, with the distance annotated (pack states about 623 m). State both end points and the date measured. Show the 400 m and 800 m walking catchments and the bus stop on Old Northern Road (routes 600, 603, 610X).
 
@@ -158,7 +159,7 @@ A3, north point, scale bar. Red line on the title boundary of Lot 1 DP 713156 (2
 
 **To:** Furtado Sullivan
 
-Two street elevations (Cecil Ave and Hume Ave) at 1:1,000, same scale, side by side. Draw: the 16 m LEP height plane; the in-fill affordable housing bonus plane at about 20.8 m (Urbis to confirm); the proposal to top of plant (RL 248.90, 127.9 m) and to the 6 m design-tolerance envelope (RL 254.90, 133.9 m). Label RLs, storeys and ground RL 121.00. No rendering; line drawing with a single tone for the proposal.
+Two street elevations (Cecil Ave and Hume Ave) at 1:1,000, same scale, side by side. Draw: the 16 m LEP height plane; the Low and Mid-Rise standard plus in-fill bonus plane at 22.75 m (planner to confirm inner or outer area); the proposal to top of plant (RL 248.90, 127.9 m) and to the 6 m design-tolerance envelope (RL 254.90, 133.9 m). Label RLs, storeys and ground RL 121.00. No rendering; line drawing with a single tone for the proposal.
 
 ### B-4 — Tower and podium form
 
@@ -170,7 +171,7 @@ Ground floor plan (retail, lobby, vehicle entry, deep soil, through-site movemen
 
 **To:** Furtado Sullivan / Arcadia
 
-One axonometric of the Castle Hill centre from the south-east, showing YANA and only schemes whose height is confirmed from a primary source at drafting: 16-20 Old Castle Hill Rd (40 storeys), 325-329 Old Northern Rd (25 storeys / 83.6 m), 2-4 & 22-28 Garthowen Cres (up to 36 storeys), 93-107 Cecil Ave (height per DPHI portal), Castle Hill Metro. Label each with storeys, status (declared / SSD lodged / proposed) and source. Do not show 'potential uplift' or TOD envelopes.
+One axonometric of the Castle Hill centre from the south-east, showing YANA and only schemes whose height is confirmed from a primary source at drafting: 16-20 Old Castle Hill Rd (40 storeys), 244-248 Old Northern Rd (height per its SEARs request), 2-4 & 22-28 Garthowen Cres (up to 36 storeys), 93-107 Cecil Ave (23 to 35 storeys, per DPHI portal), Castle Hill Metro. Label each with storeys, status (declared / SSD lodged / proposed) and source. Do not show 'potential uplift' or TOD envelopes.
 
 ### B-6 — Adjoining-site developability study
 

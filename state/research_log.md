@@ -87,3 +87,81 @@ All entries accessed 5 Oct 2026 via web search.
 | R-g1 | Hills housing target: **23,300 completions by 2029**, the largest five-year target in the Central Sydney region | planning.nsw.gov.au/policy-and-legislation/housing/housing-targets/the-hills-councils-snapshot | POLICY NOW | LOCATED |
 | R-g2 | Hills Council publicly opposes HDA uplift ("secretive", "infrastructure crisis") and the Bella Vista 40-storey towers | thehills.nsw.gov.au news; mayoral minute 18 Nov 2025 | — | Primary (council), LOCATED |
 | R-g3 | No LEP amendment or precinct-plan adoption since Aug 2026 found. D2's "3.5:1 base control (cl 7.11)" claim is not verified | — | — | **MISSING** |
+
+---
+
+# Loop 4 — primary sources read, 7 Oct 2026
+
+**What changed.** The DPHI and Planning Portal pages opened this loop through the page-reading tool. The shell is still blocked, and legislation.nsw.gov.au returned 403.
+
+**How far to trust these.** The tool returns an extract of each page, not the raw file. Long records can be cut short: the 22 June 2026 record stopped at item 61 of 114. So:
+- **READ** = the primary page was opened and the fact was extracted from it on 7 Oct 2026. Good enough to steer strategy.
+- Before any wording is pasted into the form as a quotation, the planner checks it by eye against the PDF.
+- Counts taken across a whole record (for example "criterion 4.1 cited 24 times") are indicative only.
+
+## h. The live form and criteria (supersedes R-a1 to R-a8)
+
+| ID | Finding | Source | Strength |
+|---|---|---|---|
+| R-h1 | Criteria document is **DPHI-MC-SD-V2**, updated 12 May 2026 | planning.nsw.gov.au/sites/default/files/2024-12/housing-delivery-authority-ssd-criteria.pdf | READ |
+| R-h2 | 3.3: for a concurrent rezoning the offer must **exceed** existing council or State policy so the rate is proportional to the uplift; where uplift is significant it must be **in perpetuity**; applicant states rate, form, ownership, tenure | same | READ |
+| R-h3 | 4.1: must show why the in-fill affordable housing bonus and its SSD pathway are not used | same | READ |
+| R-h4 | 4.2: strategic merit is shown by alignment with a relevant strategic plan **or** a response to "a change in circumstances that has not been recognised by the existing planning framework"; and "no other available state assessed pathway". Exclusions: listed C/RE/RU zones, regionally significant industrial land, three CBD cores, dwelling caps, active unexhibited State-led rezoning | same | READ |
+| R-h5 | 2.5: an EOI the HDA has already not supported "will not be accepted for subsequent consideration unless positively and materially addressing the reason for decision" | same | READ |
+| R-h6 | 3.1 hazards: not bush fire prone, not "in a flood planning area", not affected by land slip, mine subsidence, contamination or underground high-risk infrastructure | same | READ |
+| R-h7 | Question list is **DPHI-MC-SD-V3, June 2026**, 60 questions. Q15 asks for height **in storeys**. Q57 concept scheme must show site area, site context, envelope massing, and envelope comparison (current vs proposed controls) | planning.nsw.gov.au/sites/default/files/2025-01/housing-delivery-authority-eoi-submission-questions.pdf | READ |
+| R-h8 | Live form (nswdpie.tfaforms.net/1766), six pages. **Site map: PNG, JPG or TIF, 20 MB. Concept scheme: PDF, DOC or DOCX, 20 MB.** No word limits and no page limit were shown. A "No" to concurrent rezoning cannot be selected where variation exceeds 20% | live form | READ (limits to be re-checked at the keyboard) |
+| R-h9 | EOIs are taken continuously and considered within 60 days from 1 July 2026. There is no closing window. HDA decisions are final with no appeal; a revised EOI may be resubmitted. Declaration is not approval | HDA expression-of-interest page | READ |
+
+## i. HDA records, 18 Aug and 15 Sep 2026 (supersedes R-b1 to R-b5)
+
+| ID | Finding | Strength |
+|---|---|---|
+| R-i1 | **18 Aug 2026:** 36 considered, 10 recommended, 25 not, 1 deferred. No Hills Shire item found | READ |
+| R-i2 | **15 Sep 2026:** 45 considered, 15 recommended, 27 not, 2 deferred, 1 withdrawn. Only Hills item: EOI 388482, 15-17 Ashford Ave & 29-31 Partridge Ave, Castle Hill (2 and 15 storeys, 300 homes, 10% for 15 years) — **withdrawn by applicant**. So no Hills EOI has been decided since the Sydney Plan commenced | READ |
+| R-i3 | Fishburn opening, 15 Sep: a number of EOIs "go above and beyond what has been said in recent strategic planning context through the TODs or the LMR" | READ |
+| R-i4 | Stated reasons for not recommending, 15 Sep (one line each): "exceeds the LMR controls which are considered appropriate for the site context" (Sefton, Winston Hills, Engadine); "above the recently set LMR controls with no natural transition proposed" (Randwick); "out of context with the local area and recent planning controls" (Auburn, 18 storeys); "inconsistent with recent strategic planning ... with the scale of uplift proposed" (Ashfield); "inconsistent with local scale and context" (Mosman, 16 storeys); "inconsistent with recent strategic planning and the local context" (Archer St Chatswood, 53–57 storeys) | READ |
+| R-i5 | The cited criteria are overwhelmingly **4.1 and 4.2**, with Objective 2. Criterion 3.3 is cited rarely and not for the low-rate perpetual offers | READ (counts indicative) |
+| R-i6 | Low perpetual offers not recommended on 15 Sep: Auburn 2%, Ashfield 3%, Leichhardt 2% + 10% for 10 years — all on Objective 2 / 4.1 / 4.2, not 3.3. Wentworth Point 2–3% perpetual (1,200 homes) deferred for Sydney Water advice | READ |
+| R-i7 | Perpetual or hybrid offers **recommended**: Chatswood 465 Victoria Ave 10% (44 storeys, 503 homes, 17:1); Chatswood 691-699 Pacific Hwy 10% (42 storeys, 142 m over 90 m); Lane Cove North 10%; Sutherland 20%; Parramatta 15%; Mosman 10% and 5%; Cremorne 5%; Rose Bay 5%; Pymble 5%; Randwick 5% perpetual + 5% for 15 years; West Ryde 10% of which 5% perpetual; Wickham 5%, half perpetual | READ |
+| R-i8 | No general-housing scheme offering **under 5% in total** was found recommended in either record | READ (negative finding) |
+| R-i9 | Large height multiples recommended: **Wickham 120 m over a 10 m control** (2 × 30 storeys, 318 homes, 18 Aug); **Five Dock about 30 storeys, 90 m over 15 m** (250 homes, 15% for 15 years or a perpetual amount to be determined, 15 Sep). Both are shop top housing in a centre | READ |
+| R-i10 | Standard note on recommended concurrent rezonings: the proposal "includes significant uplift and would generally include affordable housing that is in perpetuity with feasibility as a guiding principle"; the proponent provides supporting analysis in the SSD; the Department "will work with the proponent to determine an approach" reflecting value returned to the community | READ |
+| R-i11 | Isolation is handled as a note, not a refusal: recommended Chatswood and Five Dock items were asked to "investigate incorporating the adjacent isolated site" | READ |
+| R-i12 | Recommended items carry: "A merit assessment may result in development standards and dwelling yield lower than proposed" | READ |
+
+## j. Castle Hill records (supersedes R-c1 to R-c7)
+
+| ID | Site | Finding | Strength |
+|---|---|---|---|
+| R-j1 | **89-91 Cecil Ave** (EOI 307336, Mecone for CBD Core) | 24 storeys, 116 homes, 15% for 15 years + 2.5% perpetual. **Not recommended, 15 Jun 2026**: 1.2, Objective 2, 4.1, 4.2. Fishburn: scale "out of context of the surrounding areas and recent strategic planning work which ... Hills Shire Council has undertaken, which would generally propose about 12 storeys as the control in this area". Alternative given: DA following a planning proposal | READ |
+| R-j2 | **20-26 Hume Ave & 71 Cecil Ave** (EOI 311013, Gyde) | Two 25-storey buildings, 219 homes, 12–17% for 15 years + 2% perpetual. **Not recommended, 15 Jun 2026**: Objective 2, 2.1, 4.1, 4.2. Fishburn: "the scale of it is out of context with the surrounding area" | READ |
+| R-j3 | Garthowen Cres / Old Castle Hill Rd (EOI 308766) | Up to 36 storeys, 355 homes + hotel, about 111 m over 24 m, 15% of GFA for 15 years. **Recommended, 15 Jun 2026**, with refinement and perpetuity notes | READ |
+| R-j4 | Banyan Ave, Norwest (EOI 317180) | 4 × 13 storeys, 560 homes, 10% perpetual + 5% for 15 years. Recommended, 15 Jun 2026 | READ |
+| R-j5 | 16-20 Old Castle Hill Rd, **SSD-85238209**, HDA Housing | 371 dwellings "including 42 affordable dwellings for 15 years"; concurrent rezoning to FSR **12.31:1**; exhibition 1–15 Oct 2026. 42 of 371 is 11.3% of dwellings. The portal page does **not** describe a 3% perpetual offer | READ |
+| R-j6 | 244-248 Old Northern Rd, **SSD-106965706**, HDA Housing | "up to 200 apartments with 10% affordable housing"; Prepare EIS; SEARs issued. No storey count on the page | READ |
+| R-j7 | 325-329 Old Northern Rd & 2 Brisbane Rd, **SSD-86785964**, HDA Housing | 3-storey podium + 22-storey tower, 148 apartments, "at least 5% affordable apartments". Status on this page: **SEARs expired**. (Media reports a newer SSD-135694240; not read) | READ |
+| R-j8 | 57-63 Old Castle Hill Rd (EOI 348632) | Not re-read: the 22 June record was cut short by the tool. Figures in the project record (40 storeys, 550 homes, 10% for 15 years) rest on the owner's earlier reading | NOT RE-READ |
+| R-j9 | General statement, 15 Jun 2026 record | Affordable criteria are "intentionally flexible" on percentage, ownership and tenure so requirements do not make projects unfeasible; a perpetual rate is expected to be lower than a time-limited rate; cash contributions are acceptable | READ |
+
+## k. Framework
+
+| ID | Finding | Source | Strength |
+|---|---|---|---|
+| R-k1 | The Sydney Plan V1.0 **commenced 13 Aug 2026** and replaces the Greater Sydney Region Plan (2018) and the five district plans | Sydney Plan page | READ |
+| R-k2 | **Castle Hill station and town centre is a nominated Low and Mid-Rise (LMR) centre.** LMR areas are residential zones within 800 m walking distance of a nominated town centre or station entrance | LMR policy page | READ |
+| R-k3 | LMR non-refusal standards for residential flat buildings in R3/R4: **inner area (0–400 m) 22 m, 6 storeys, 2.2:1; outer area (400–800 m) 17.5 m, 4 storeys, 1.5:1.** LEP minimum lot size and width are switched off | LMR summary of key provisions | READ |
+| R-k4 | NSW Centres Framework (SLUP Appendix E): activity centres are "major service-oriented centres that support large population catchments". Walking catchment is "between 400 and 1,500 metres from the centre core midpoint", varying by centre. **1,500 m is the top of a range, not a set radius.** Castle Hill is not named in this document | SLUP Appendix E | READ |
+| R-k5 | Sydney Plan Appendix D, Hills pages: Castle Hill is listed as an activity centre; "Council is required to undertake actions to boost its housing capacity". The maps "must not be used as evidence to demonstrate strategic merit or as part of any development assessment process". The tool returned a target of 20,300, which conflicts with R-k6 — check by eye | Sydney Plan Appendix D | READ, one figure in doubt |
+| R-k6 | Hills target: "23,300 new completed homes by 2029" | Hills council snapshot page | READ |
+| R-k7 | The Hills LEP 2019 text (cl 4.1A, cl 7.34) could not be opened: 403 | legislation.nsw.gov.au | NOT READ |
+
+## l. What this evidence means for YANA
+
+1. **The decision turns on 4.2, read as "scale in context" and "recent strategic planning".** That is the stated reason in almost every non-recommendation read.
+2. **Both EOIs on Cecil Avenue were refused in June 2026 at 24 and 25 storeys**, with "about 12 storeys" named as the expected control for the area. YANA at 38 storeys is on the same street.
+3. **The site is inside an LMR area.** In September the HDA repeatedly refused schemes for exceeding LMR controls it called "appropriate for the site context". The LMR standard at 623 m is 17.5 m.
+4. **Height multiple alone is not a bar** (Wickham 12×, Five Dock 6×, Old Castle Hill Rd about 6×). Those sites are in a centre core or within about 250 m of a station.
+5. **Affordable housing is not what decides it**, but 3% standing alone is below every recommended general-housing offer read.
+6. **No Hills EOI has been decided under the Sydney Plan.** YANA would be the first test of the "changed circumstances" argument.
+7. **In-fill bonus arithmetic is now firm.** LMR outer area 17.5 m and 1.5:1, plus 30%, gives 22.75 m and 1.95:1: about 3,994 m² GFA, about 34 homes at this scheme's average. Inner area 22 m and 2.2:1, plus 30%, gives 28.6 m and 2.86:1: about 5,857 m², about 49 homes. Either way it is under the 100-home State significance threshold, so no other State-assessed pathway delivers this housing.

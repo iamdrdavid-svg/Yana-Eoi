@@ -1,78 +1,79 @@
-# Owner decisions — still open after loop 3
+# Owner decisions — after loop 4
 
-5 Oct 2026. These are closed and recorded in `state/metrics_register.md` section E:
-- **OD-1** — 25 Hume Ave is part of the site: Lot 1 = 25 Hume, Lot 2 = 79 Cecil, Lot 3 = 77 Cecil.
-- **OD-3** — FSR is 14.09:1; never 12:1.
-- **OD-9** — the 38-storey yield is in the pack.
+7 Oct 2026. Nothing has been lodged. The locked position is unchanged in every deliverable: 38 residential storeys plus rooftop plant (133.9 m), 14.09:1, 3% in perpetuity.
 
-Items left in brackets in your 5 Oct answers are recorded as **NOT YET DECIDED**.
+Closed earlier: OD-1 (25 Hume Ave is in the site), OD-3 (FSR 14.09:1), OD-9 (38-storey yield is in the pack).
 
-## A. Uploads that did not arrive
+## The position in one paragraph
 
-None of the new inputs listed in your answers are in `inputs/`, on the pushed branch, in this session's uploads, or in Google Drive:
-- s10.7 planning certificate, 79 Cecil Ave
-- Planning Portal reports for 25 Hume Ave and 77 Cecil Ave
-- s9.1 Ministerial Direction
-- Sydney Plan Appendix D
-- SLUP Appendices A–E
+The HDA records were read from source this loop. They show the decision turns on height in context, not on affordable housing. Two EOIs on Cecil Avenue were refused in June at 24 and 25 storeys as "out of context", and in September the HDA started refusing schemes for exceeding Low and Mid-Rise controls, which apply to this site. On that record, 38 storeys has about a 1 in 10 chance. The evidence and reasoning are in `state/scorecard.md`.
 
-Until they arrive:
-- The lot mapping is recorded as **confirmed by owner, verification pending**.
-- The hazards answer stays blank, and that item stays **RED**.
-- No strategic-framework finding can be upgraded.
+## Decisions, in order of effect on the result
 
-To add them:
-- **Attach them in this chat** (as you did with the concept pack); or
-- **commit them** to `inputs/` on branch `claude/yana-eoi-declaration-amhvby`.
+### D-1. Height — the decision that moves the odds
 
-A s10.7 covers only its own lot, so certificates for 25 Hume Ave and 77 Cecil Ave would also be needed to answer the hazards question for the whole site.
-
-## B. Owner decisions still open
-
-| ID | Decision | Status | What I need |
-|---|---|---|---|
-| OD-4 | Affordable housing basis and structure | NOT YET DECIDED | 3% of GFA or 3% of dwellings (about 7 homes either way). Standing alone, or with a % for 15 years |
-| OD-5 | Developer, builder, CHP | NOT YET DECIDED | Name and exact status of each (contracted / letter of intent / in discussion). A letter of intent will not be described as an agreement |
-| OD-6 | Certified cost figure | NOT YET DECIDED | $ amount, certifier, date, with the residential component separately. The pack's "$138–155M" range cannot go in the form |
-| OD-7 | Target construction start | NOT YET DECIDED | Month and year. The pack shows only the latest permitted date (10 Oct 2029) |
-| OD-8 | Affordable offer: locked 3% vs Variant A or B | Locked 3% stands | Decision only. Evidence below |
-
-## C. Open with the planner
-
-| ID | Item | Interim position |
+| Option | Estimate | Note |
 |---|---|---|
-| OD-2 | 38 or 39 storeys (L38 is plant) | Describe as "38 residential storeys plus rooftop plant" and lead with 133.9 m, including a 6 m design tolerance. Urbis to confirm under the Standard Instrument definition (CA-4f) |
+| Hold 38 storeys | about 10% | As locked |
+| Lodge at about 25 storeys; show 38 in the concept pack as a tested upper option | about 30% | Matches the declared scale on your own block (244–248 Old Northern Rd). Roughly 185–200 homes on earlier work; architect to confirm |
 
-## D. Evidence that the locked position lowers declaration probability (Rule 3)
+- A recommended scheme carries the note that assessment "may result in development standards and dwelling yield lower than proposed". So 38 storeys is not secured by a declaration at 38; it is secured, or not, in the SSD assessment.
+- A refusal is published with its reason, and a second EOI must "positively and materially" address that reason.
+- **What I need:** hold 38, or instruct Furtado Sullivan to issue an area schedule at the lower height.
 
-**OD-8 — affordable housing**
+### D-2. Timing — lodge now, or after 93–107 Cecil Avenue
 
-Full evidence and reasoning: `state/scorecard.md`.
+- You have said the Department is about to support 35 storeys at 93–107 Cecil Avenue. If that becomes public before the HDA considers YANA, the June reason ("about 12 storeys in this area") is hard to repeat.
+- There is no EOI window and no deadline. The pack's "10 Aug–30 Oct 2026" window does not exist. EOIs are considered within 60 days of lodgement.
+- **What I need:** lodge as soon as the pack is ready, or hold until that assessment is published.
 
-| Position | Estimate | Basis |
+### D-3. Affordable housing — raise the offer
+
+- 3% alone is below every recommended general-housing offer in the August and September records. The lowest recommended was 5%.
+- Options drafted in `outputs/webform.md`: **A** 10% perpetual (both Chatswood towers); **B** 5% perpetual + 5% for 15 years (Randwick); **C** 3% perpetual + 7% for 15 years (your September direction).
+- The HDA settles the final rate in assessment "with feasibility as a guiding principle", so the EOI rate is an opening position, not the last word.
+- The Planning Portal describes 16–20 Old Castle Hill Road as "42 affordable dwellings for 15 years" (11.3% of dwellings). It does not show a 3% perpetual offer there.
+- **What I need:** A, B, C, or hold 3%. And: of GFA or of dwellings (OD-4).
+
+### D-4. Two sentences that commit Lifex
+
+Both repeat the HDA's own standard notes and make a recommendation easier to give.
+- Q44: Lifex will provide feasibility analysis and work with the Department to settle the affordable housing outcome.
+- Q53: Lifex accepts that merit assessment may result in lower standards and yield.
+- **What I need:** yes or no to each.
+
+### D-5. Facts only you can supply
+
+| ID | Item | What I need |
 |---|---|---|
-| Locked 3% perpetual | about 15% (10–20%) | Lowest offer against the largest uplift in the located record. Below 5% perpetual at 325-329 Old Northern Rd (R-c5) and 10% perpetual declared at 465 Victoria Ave, Chatswood (R-d1) |
-| Variant A — 10% of GFA perpetual | about 35% (30–40%) | Matches the Chatswood perpetual declaration |
-| Variant B — 3% perpetual + 12% for 15 years | about 30% (25–35%) | Equals 16-20 Old Castle Hill Rd's 15% for 15 years (R-c1), but only 3% is perpetual where the guidance asks for perpetuity (R-a3) |
+| OD-5 | Parties | Confirm: applicant Lifex Pty Ltd (trustee capacity and ACN); developer Alton Property Group under a letter of intent; planner and contact Chris Shannon, Mecone; CHP Evolve Housing and whether it is a letter of intent or an agreement |
+| OD-6 | Cost | One figure from the QS for the residential component of the 38-storey scheme, with certifier and date |
+| OD-7 | Start | Target month and year; builder procurement route; how construction is funded |
+| — | Signatory | Name of the person signing for Lifex; contact phone and email |
+| — | Council | Whether council has been contacted, and when |
+| — | Donations | Yes or no for everyone with a financial interest |
+| — | Existing dwellings | How many dwellings are on the three lots now |
 
-Both variants are drafted at the end of `outputs/webform.md`. The main answer stays at 3%.
+## Documents still needed
 
-**OD-10 — density**
+| Item | Why | Who |
+|---|---|---|
+| Current s10.7(2) and (5) certificates, all three lots | The one held is January 2023 and covers 79 Cecil Ave only | Owner or solicitor; council issues in days |
+| Title searches, Lots 1–3 DP 713156 | Q35 must match title exactly | Solicitor |
+| Site map as PNG or JPG | The form rejects PDF for the map | Surveyor / Furtado Sullivan (B-1) |
+| Concept pack re-issued under 20 MB | Current file is 31 MB and carries superseded figures | Furtado Sullivan (B-0) |
+| QS report | Q28 | Newton Fisher |
+| Register search on the three lots | Q18, Q37 | Mecone |
 
-Your FSR decision (14.09:1) closes the option of bringing density within the 12.31:1 reported for 16-20 Old Castle Hill Rd. YANA is now firmly the densest scheme in the located Castle Hill record. This is noted as evidence only; no change is proposed.
+## Open with the planner
 
-## E. Environment
+| ID | Item |
+|---|---|
+| OD-2 | 38 or 39 storeys under the Standard Instrument definition (Level 38 is plant). The form asks for height in storeys |
+| CA-4b | Whether the site is in the LMR inner area (22 m, 2.2:1) or outer area (17.5 m, 1.5:1) |
+| CA-4g | Whether the scheme is a residential flat building or shop top housing. Clause 4.1A names residential flat buildings only |
+| CA-4h | Check the Sydney Plan and Appendix D wording in Q48 by eye, including the Hills target (23,300 on the snapshot page) |
 
-The network is still blocked (tested 5 Oct 2026, loop 3) for:
-- planning.nsw.gov.au
-- legislation.nsw.gov.au
-- planningportal.nsw.gov.au
-- nswdpie.tfaforms.net
+## How to send me things
 
-So the following remain UNVERIFIED:
-- the live form questions and word limits
-- the current criteria
-- the HDA records since 13 Aug 2026
-- the reasons for the non-declarations at 26 Hume Ave, 89-91 Cecil Ave and 15-17 Ashford Ave / 29-31 Partridge Ave
-
-To change this: environment settings → Network access → allow those hosts.
+Attach files in this chat, or add them to the `inputs` folder on GitHub. Decisions can be typed as one line each, for example "D-1 hold 38. D-3 option C, of GFA."

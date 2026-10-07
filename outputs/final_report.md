@@ -1,165 +1,124 @@
-# Project YANA — EOI declaration loop: interim report
+# Project YANA — EOI declaration loop: report after loop 4
 
-5 Oct 2026 · Paused after loop 3 of 6, waiting on uploads and owner decisions. **Nothing has been lodged, submitted or sent.**
+7 Oct 2026 · Paused for owner decisions. **Nothing has been lodged, submitted or sent.**
 
 ## Net conclusion
 
-The webform and concept-slide copy are drafted on the locked position: 133.9 m (38 residential storeys plus rooftop plant), 14.09:1, concurrent rezoning, 3% in perpetuity. Every number now matches one register.
+The package is drafted on the locked position (133.9 m, 38 residential storeys plus rooftop plant, 14.09:1, 3% in perpetuity) and the webform now follows the live form question by question. **It is not ready to lodge, and on the evidence it should not be lodged unchanged.**
 
-**The package is not ready to lodge.** Four criteria are RED:
-1. **Hazards** — the s10.7 certificate has not been uploaded.
-2. **Affordable housing** — 3% is likely to fail the proportionality test.
-3. **Strategic merit** — at 14.09:1 YANA would be the densest scheme in the centre.
-4. **Lot size and isolation** — the cl 4.1A shortfall and a sub-minimum neighbour.
+This loop the HDA's criteria, form and decision records were read from source for the first time. They show:
 
-Internal consistency is now AMBER: the deliverables agree, but the 3 Oct pack PDF must be re-issued (B-0) before it is used anywhere.
+1. **The HDA decides on scale in context (criterion 4.2).** Affordable housing is rarely the stated reason for a refusal.
+2. **Both EOIs on Cecil Avenue were refused on 15 June 2026**, at 24 and 25 storeys, as "out of context", with "about 12 storeys" named for the area.
+3. **The site is in a Low and Mid-Rise housing area**, and on 15 September the HDA refused several schemes for exceeding LMR controls.
+4. **3% affordable is below every recommended general-housing offer read.** The lowest recommended was 5%.
 
-**Estimated declaration probability (loop 3):**
-- Locked position: about 15% (range 10–20%).
-- Variant A (10% of GFA in perpetuity): about 35%.
-- Variant B (3% in perpetuity plus 12% for 15 years): about 30%.
-- The upper bound fell after loop 2 because fixing FSR at 14.09:1 removed the density mitigation.
+**Estimated probability of declaration:**
 
-**Loop 3 inputs:**
-- The owner's answers on lot mapping (25 Hume Ave is in the site) and FSR (14.09:1) are recorded.
-- The new documents named in those answers did not arrive, and the network is still blocked.
+| Position | Estimate |
+|---|---|
+| Locked: 38 storeys, 3% | about 10% (5–15%) |
+| 38 storeys, 10% affordable | about 12–15% |
+| About 25 storeys, 10% affordable | about 30% (20–40%) |
+| About 25 storeys, 10%, lodged after a favourable public outcome at 93–107 Cecil Ave | about 40–50% |
 
-**Research caveat.** Research rests on search summaries, because this environment blocked every NSW Government site. Treat every procedural finding as unverified until CA-0 is done.
+These are judgements from the record, not forecasts. Reasoning: `state/scorecard.md`.
+
+## What would get it declared
+
+In order of effect:
+1. **Lodge at a height the record supports on this block** (about 25 storeys, matching 244–248 Old Northern Road), and show 38 storeys in the concept pack as a tested upper option. Height is finally set in the SSD assessment, not at declaration.
+2. **Time the lodgement** to follow the Department's position on 23–35 storeys at 93–107 Cecil Avenue, if that is weeks away. There is no EOI deadline.
+3. **Raise the affordable offer to 10% in total** with a perpetual share, and adopt the HDA's own wording that the rate is settled in assessment with feasibility as the guide.
+4. **Close the factual gaps** so nothing gives the assessor a reason to defer: current planning certificates for all three lots, title evidence, one QS figure, exact party status, a compliant site map and a concept pack under 20 MB.
+
+Decisions 1 to 3 are the owner's: `outputs/owner_decisions.md` D-1 to D-3.
 
 ## Scorecard
 
 | Criterion | Rating | Main gap |
 |---|---|---|
 | 1.1 Housing type | GREEN | — |
-| 1.2 State significance | AMBER | One certified EDC (OD-6) |
-| 2.1 Standards / rezoning | GREEN | FSR 14.09:1 owner-confirmed |
-| 2.2 Lodge 9 / start 12 | AMBER | Target start, builder, funding (OD-7) |
-| 2.3 Tenure | AMBER | Lot mapping owner-confirmed; Portal reports, s10.7 and titles not uploaded |
-| 2.4 Contributions | GREEN | Plan name |
-| 2.5 Prior refusal | AMBER | Register search (CA-2) |
+| 1.2 State significance | AMBER | One QS figure (OD-6) |
+| 2.1 Standards / rezoning | GREEN | — |
+| 2.2 Lodge 9 / start 12 | AMBER | Developer status, builder route, funding (OD-5, OD-7) |
+| 2.3 Tenure | AMBER | Title evidence per lot |
+| 2.4 Contributions | GREEN | Planner to confirm plan name is current |
+| 2.5 Prior refusal | AMBER | Register search on the three lots |
 | 3.1 Transport | GREEN | Measured route plan (B-2) |
-| 3.1 Hazards | **RED** | s10.7 (CA-3) |
-| 3.2 Servicing | GREEN | Authority confirmation later |
-| 3.3 Affordable housing | **RED** | Proportionality (OD-8) |
-| 4.1 Rezoning justified | AMBER | Urbis to verify bonus arithmetic and precinct-plan status (CA-4) |
-| 4.2 Strategic merit / height | **RED** | Densest in centre at 14.09:1; Hills 4.2 failures |
-| Lot size / isolation | **RED** | B-6 study; CA-5 |
-| Prior non-declarations on the block | AMBER | HDA records (CA-0) |
-| Internal consistency | AMBER | Deliverables consistent; the old pack PDF must not be lodged before B-0 re-issue; storey count open |
+| 3.1 Hazards | AMBER | Certificate is Jan 2023, one lot of three |
+| 3.2 Servicing | GREEN | — |
+| 3.3 Affordable housing | **RED** | Below every recommended offer read; second-order |
+| 4.1 Rezoning justified | GREEN | In-fill bonus yields 34–49 homes |
+| 4.2 Strategic merit — scale in context | **RED, decisive** | Cecil Avenue refusals; LMR |
+| Lot size / isolation | AMBER | B-6 study; record of approaches to neighbours |
+| Internal consistency | AMBER | Pack PDF still carries superseded figures |
+| Upload compliance | **RED** | Pack is 31 MB against a 20 MB limit; map must be an image |
 
-Full reasoning: `state/scorecard.md`.
+## What changed in loop 4
 
-## Declaration probability
+- **Read from source:** criteria (V2), question list (V3), the live form, the 15 June, 18 August and 15 September 2026 records, three Castle Hill project pages, Sydney Plan material and the LMR policy.
+- **New input:** s10.7 certificate for 79 Cecil Ave (January 2023). Hazards and contributions answers drafted from it.
+- **Webform:** rebuilt on the live Q1–Q60 numbering; strategic merit and in-fill bonus answers rewritten; affordable variants reset to recommended precedents.
+- **Slides:** hazards, pathway arithmetic and comparator sources updated; deck rebuilt.
+- **Corrections to earlier loops:**
+  - There is no EOI window closing 30 October.
+  - The in-fill bonus base is the LMR standard, not 16 m.
+  - 16–20 Old Castle Hill Road's offer is 42 dwellings for 15 years, as described on the Portal.
+  - 325–329 Old Northern Road does show "SEARs expired" on the Portal.
 
-About 15% as locked. The criteria now tie the affordable offer to the size of the uplift. YANA asks for the largest uplift in the located Castle Hill record (16 m to 133.9 m on a 2,048 m² sub-minimum lot), but offers the smallest affordable share:
-- below the 5% perpetual offer at 325-329 Old Northern Rd, a 5.79:1 scheme
-- below the 10% perpetual offer at 465 Victoria Ave, Chatswood, declared 15 Sep 2026
+## Limits of this loop
 
-Height alone is not fatal: Castle Hill has a declared 40-storey concurrent rezoning. But the density, a sub-minimum lot and a weak offer stack up against stated HDA grounds.
-
-## What changed each loop
-
-**Loop 1**
-- Ingested the pack.
-- Found the conflicts: 38/40 storeys, 12:1 vs 14.09:1, 15% vs 3%, 25 Hume Ave outside the red line, no flood statement.
-- Ran search-only research and drafted.
-- Red team: five RED.
-
-**Loop 3**
-- Recorded the owner answers.
-- Rebuilt the webform and slides (height first, three lots, 14.09:1).
-- Re-scored: 2.1 GREEN; consistency AMBER; 4.2 harder.
-- Uploads absent; network blocked; OD-4 to OD-7 not yet decided.
-
-**Loop 2**
-- Reconciled every figure to the register.
-- Stripped superseded and unsupported claims (40-storey, 12:1, 15%, investor wording, TOD, LMR).
-- Fixed the mix percentages and the height variation.
-- Added drawing briefs and a native height chart.
-- Wrote variants A and B.
-- Ratings unchanged except internal consistency, which is fixed in the deliverables but not in the pack PDF.
-
-## Open owner decisions
-
-All are in `outputs/owner_decisions.md`:
-
-| ID | Decision |
-|---|---|
-| OD-1 | CLOSED: 25 Hume Ave is in the site (verification pending uploads) |
-| OD-2 | OPEN with the planner: 38 or 39 storeys (L38 is plant) |
-| OD-3 | CLOSED: 14.09:1 |
-| OD-4 | 3% of GFA or of dwellings; standalone or hybrid |
-| OD-5 | Developer, builder, community housing provider |
-| OD-6 | One QS-certified EDC |
-| OD-7 | Target construction start; procurement and funding paragraph |
-| OD-8 | Affordable offer: locked 3% vs Variant A (10% perpetual) or Variant B (3% perpetual + 12% for 15 years) |
-| OD-9 | Dwelling count, GFA and FSR at 38 storeys — mostly answered by the pack; OD-2 and OD-3 remain |
-| OD-10 | Height and density evidence (no change proposed) |
+- Pages were read through a tool that returns extracts. Quotations must be checked by eye against the PDFs before they are pasted into the form.
+- The 22 June 2026 record was cut short; 57–63 Old Castle Hill Road was not re-read.
+- The Hills LEP text could not be opened. Clause 4.1A and clause 7.34 rest on the owner's earlier reading.
+- One figure conflicts: Appendix D returned a Hills target of 20,300; the council snapshot page says 23,300. The webform uses 23,300.
 
 ## Consultant actions
 
-| ID | To | Brief |
+| ID | To | Action |
 |---|---|---|
-| CA-0 | Owner / Urbis | Lift the network block (allow planning.nsw.gov.au, legislation.nsw.gov.au, planningportal.nsw.gov.au, nswdpie.tfaforms.net) **or** put the following in `./inputs`. Then re-run the loop from Phase 1. |
-| CA-1 | Owner's solicitor | Title searches for Lots 1-3 DP 713156 with the street address of each lot, and evidence of ownership or option for Lifex Pty Ltd. |
-| CA-2 | Urbis | Search the Planning Portal, the HDA published records and the council DA tracker for any DA, planning proposal, prior EOI or refusal (last 5 years) on Lots 1-3 DP 713156. Search the same for 26 Hume Ave, 89-91 Cecil Ave and 65-71 Cecil / 20-26 Hume Ave, recording the outcome and the HDA's stated reasons for each. |
-| CA-3 | Owner | Obtain a s10.7(2) and (5) planning certificate. Commission a desktop hazard screen: flood, bushfire, contamination (Phase 1 desktop), landslip, OLS at RL 254.90. |
-| CA-4 | Urbis | Confirm in writing: (a) in-fill bonus height on this site (16 m × 1.3) and how the FSR bonus applies with no mapped FSR; (b) whether Low and Mid-Rise housing applies, and its controls at 623 m; (c) the status and heights of council's draft Castle Hill Precinct Plan; (d) that Castle Hill is not a TOD precinct; (e) whether an FSR control should be introduced by the rezoning; (f) the storey count under the Standard Instrument definition. |
-| CA-5 | Owner / Urbis | Record any approach to the owners of the 2,600 m² south-west lot and 81-87 Cecil Ave about amalgamation, with dates and responses, for the isolation test. |
-| CA-6 | QS (Newton Fisher or QS of record) | Certify the EDC, with the residential component separately, for the scheme chosen under OD-3. Prepared within 3 months of lodgement. |
-| B-0 … B-8 | Furtado Sullivan / Arcadia / surveyor / Urbis | Drawing briefs in full in the `outputs/concept_slides.md` appendix: pack corrections, site map, walking route, existing-control elevation, tower and podium, comparator massing, adjoining-site study, shadows, affordable distribution. |
+| CA-1 | Solicitor | Title searches for Lots 1–3 DP 713156; ownership stated per lot exactly as on title |
+| CA-2 | Mecone | Register search for any DA, planning proposal, EOI or refusal on the three lots in the last 5 years |
+| CA-3 | Owner / solicitor | Current s10.7(2) and (5) certificates for all three lots; ask council's Waterways team whether the land lies between the flood planning area and the probable maximum flood |
+| CA-4 | Mecone | Confirm: (b) LMR inner or outer area; (e) whether an FSR control should be introduced; (f) storey count; (g) residential flat building or shop top housing, and whether cl 4.1A then applies; (h) Sydney Plan wording in Q48 |
+| CA-5 | Owner / Mecone | Record any approach to the owners of 81–87 Cecil Ave and the 2,600 m² south-west lot |
+| CA-6 | Newton Fisher | One EDC figure for the residential component of the scheme to be lodged |
+| B-0 | Furtado Sullivan | Re-issue the pack: corrected figures, corrected red line, no EOI window, current planner, hazards line, under 20 MB |
+| B-1 | Surveyor / Furtado Sullivan | Site map as PNG or JPG |
+| B-2 to B-8 | Design team | Drawing briefs in `outputs/concept_slides.md` |
 
-Documents CA-0 needs in `./inputs` if the network block stays:
-- HDA criteria and EOI submission questions
-- the live form's word limits
-- the 18 Aug and 15 Sep 2026 Records of Briefing
-- the Sydney Plan
-- SLUP Appendices B–E
-- the s9.1 Direction
+## Sources read on 7 Oct 2026
 
-## Sources
-
-**Inputs**
-- `inputs/HDA_Concept_Pack_1.pdf` (Furtado Sullivan / Arcadia / PVDM, 3 Oct 2026)
-
-**Reference (owner drafts, Google Drive)**
-- D1 `YANA_HDA_EOI_Webform_Answers` (11 Jul 2026)
-- D2 `YANA_HDA_EOI_Submission_DRAFT_v2_2026-07-12`
-
-**Search-located (accessed 5 Oct 2026; primary text not read)**
-- https://www.planning.nsw.gov.au/policy-and-legislation/housing/housing-delivery-authority
 - https://www.planning.nsw.gov.au/policy-and-legislation/housing/housing-delivery-authority/expression-of-interest
 - https://www.planning.nsw.gov.au/policy-and-legislation/housing/housing-delivery-authority/published-records
-- https://www.planning.nsw.gov.au/sites/default/files/2026-05/summary-housing-delivery-authority-12-month-review.pdf
 - https://www.planning.nsw.gov.au/sites/default/files/2024-12/housing-delivery-authority-ssd-criteria.pdf
-- https://www.planning.nsw.gov.au/sites/default/files/2026-07/housing-delivery-authority-record-of-briefing-20260723.pdf (and 20260623, 20260622, 20260429, 20260313, 20260217)
-- https://www.nsw.gov.au/ministerial-releases/housing-delivery-authority-sets-new-60-day-clock-on-eois
-- https://www.planning.nsw.gov.au/plans-in-nsw/plans-by-region/the-sydney-plan
-- https://www.planning.nsw.gov.au/sites/default/files/2026-08/state-land-use-plan-appendix-c-feasible-housing-capacity-policy.pdf
-- https://www.planning.nsw.gov.au/sites/default/files/2026-07/section-91-ministerial-direction-local-plan-making.pdf
-- https://www.planning.nsw.gov.au/policy-and-legislation/housing/housing-targets/the-hills-councils-snapshot
-- https://planning.nsw.gov.au/the-planning-system/housing/housing-sepp
+- https://www.planning.nsw.gov.au/sites/default/files/2025-01/housing-delivery-authority-eoi-submission-questions.pdf
+- https://nswdpie.tfaforms.net/1766
+- https://www.planning.nsw.gov.au/sites/default/files/2026-06/housing-delivery-authority-record-of-briefing-20260615.pdf
+- https://www.planning.nsw.gov.au/sites/default/files/2026-08/housing-delivery-authority-record-of-briefing-20260818.pdf
+- https://www.planning.nsw.gov.au/sites/default/files/2026-09/housing-delivery-authority-record-of-briefing-20260915.pdf
 - https://www.planningportal.nsw.gov.au/major-projects/projects/mixed-use-development-and-rezoning-16-20-old-castle-hill-road-castle-hill
-- https://www.planningportal.nsw.gov.au/major-projects/projects/mixed-use-development-fill-affordable-housing-cecil-avenue-and-roger-avenue-castle-hill
-- https://www.thehills.nsw.gov.au/News-and-Publications/NSW-Government-Piles-More-Homes-and-Pressure-on-the-Hills-Shire
+- https://www.planningportal.nsw.gov.au/major-projects/projects/residential-flat-building-244-248-old-northern-rd-castle-hill
+- https://www.planningportal.nsw.gov.au/major-projects/projects/mixed-use-325-329-old-northern-rd-2-brisbane-rd-castle-hill
+- https://www.planning.nsw.gov.au/plans-in-nsw/plans-by-region/the-sydney-plan
+- https://www.planning.nsw.gov.au/sites/default/files/2026-08/the-sydney-plan-appendix-d-housing-and-employment-guidance.pdf
+- https://www.planning.nsw.gov.au/sites/default/files/2026-08/state-land-use-plan-appendix-e-nsw-centres-framework.pdf
+- https://www.planning.nsw.gov.au/policy-and-legislation/housing/low-and-mid-rise-housing-policy
+- https://www.planning.nsw.gov.au/the-planning-system/housing/low-and-mid-rise-housing-policy/summary-of-key-provisions
+- https://www.planning.nsw.gov.au/policy-and-legislation/housing/housing-targets/the-hills-councils-snapshot
 
-**Media and trackers (locate only, establish nothing)**
-- https://urbandigest.com.au/housing-delivery-authority-45-nsw-hda-updates-15-september-2026/
-- https://urbandigest.com.au/ssd-85238209-mixed-use-development-and-rezoning-at-16-20-old-castle-hill-road-castle-hill/
-- https://urbandigest.com.au/ssd-135694240-81-2m-castle-hill-tower-proposed/
-- https://www.theurbandeveloper.com/articles/castle-hill-alton-group-apartments-on-exhibition-nsw
-- https://urbandigest.com.au/ssd-77127711-mixed-use-development-with-in-fill-affordable-housing-691-699-pacific-highway-chatswood/
-- https://www.abc.net.au/news/2026-08-13/nsw-sydney-housing-blueprint-more-homes-in-east-/107032114
+Inputs: `inputs/HDA_Concept_Pack_1.pdf`; `inputs/s10.7 Planning Certificate 79 Cecil Ave.pdf`.
 
 ## Files
 
 | Path | Content |
 |---|---|
-| `outputs/webform.md` | Form answers on the locked position, plus variants A and B |
-| `outputs/concept_slides.pptx`, `outputs/concept_slides.md` | 13 slides with drawing placeholders and briefs B-0 to B-8. Rebuild with `tools/build_slides.js` |
-| `outputs/owner_decisions.md` | Decisions OD-1 to OD-10 |
+| `outputs/webform.md` | Form answers Q1–Q60 on the locked position, plus variants |
+| `outputs/concept_slides.pptx`, `outputs/concept_slides.md` | 13 slides with drawing placeholders and briefs B-0 to B-8 |
+| `outputs/owner_decisions.md` | Decisions D-1 to D-5 and documents needed |
+| `state/scorecard.md` | Scorecard and probability reasoning |
+| `state/research_log.md` | Research log; sections h–l are this loop |
 | `state/metrics_register.md` | Metrics register |
-| `state/research_log.md` | Research log |
-| `state/scorecard.md` | Scorecard |
 | `state/deliverables_checklist.md` | Deliverables checklist |
 | `state/loop_log.md` | Loop log |

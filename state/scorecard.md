@@ -1,112 +1,92 @@
 # Red-team scorecard — written as a sceptical HDA assessor
 
-Loop 3 · 5 Oct 2026 · Locked position: 38 residential storeys plus rooftop plant (133.9 m), 14.09:1, 3% in perpetuity.
+Loop 4 · 7 Oct 2026 · Locked position: 38 residential storeys plus rooftop plant (133.9 m), 14.09:1, 3% in perpetuity.
 
-"Evidence" means `./inputs` or a LOCATED source. Search-only findings are marked. The network is still blocked and the new inputs the owner listed have not arrived, so no research finding has been upgraded this loop.
+This loop the HDA criteria, the live form, the 15 June, 18 August and 15 September 2026 records, and the Castle Hill project pages were read from source (research log sections h–l). That changes what the scorecard says decides the outcome.
 
-## Summary (change since loop 2 in brackets)
+## The finding that matters
+
+**The HDA decides on criterion 4.2, and it reads 4.2 as "is this scale in context with recent strategic planning for this place".** That is the stated reason for almost every non-recommendation in the September record. Affordable housing is rarely the stated reason.
+
+Loops 1 to 3 ranked affordable housing as the main risk. That ranking was wrong. The main risk is height on this street.
+
+## Summary (change since loop 3 in brackets)
 
 | Criterion | Rating |
 |---|---|
 | 1.1 High-yield housing type | GREEN |
 | 1.2 State significance (EDC, dwellings) | AMBER |
-| 2.1 Standards / concurrent rezoning | GREEN (was AMBER) |
+| 2.1 Standards / concurrent rezoning | GREEN |
 | 2.2 Lodge ≤9 months, start ≤12 months | AMBER |
 | 2.3 Secure tenure | AMBER |
 | 2.4 Contributions | GREEN |
 | 2.5 No refusal or parallel pathway | AMBER |
 | 3.1 Well-located (transport) | GREEN |
-| 3.1 Well-located (hazards) | **RED** |
+| 3.1 Well-located (hazards) | AMBER (was RED) |
 | 3.2 Well-serviced | GREEN |
-| 3.3 Affordable housing | **RED** |
-| 4.1 Rezoning justified / in-fill bonus excluded | AMBER |
-| 4.2 Strategic merit (incl. height in context) | **RED** |
-| Lot size (cl 4.1A) and isolation of neighbours | **RED** |
-| Prior non-declarations on the block | AMBER |
-| Internal consistency | AMBER (was RED) |
+| 3.3 Affordable housing | **RED** (but not the decider) |
+| 4.1 Rezoning justified / in-fill bonus excluded | GREEN (was AMBER) |
+| 4.2 Strategic merit — scale in context | **RED — decisive** |
+| Lot size (cl 4.1A) and isolation of neighbours | AMBER (was RED) |
+| Internal consistency | AMBER |
+| Upload compliance (new) | **RED** |
 
 ## What moved, and why
 
-**2.1 → GREEN**
-- The owner fixed the FSR at 14.09:1 (OA-3). Every deliverable now states one envelope: height of buildings 16 m → 133.9 m (+737%), GFA 28,865 m², site 49% below the cl 4.1A minimum.
-- The concurrent rezoning is declared, which is what the criterion asks for once standards are exceeded by more than 20%.
+**3.1 Hazards → AMBER.** The s10.7 certificate for 79 Cecil Ave arrived. It records: not in the flood planning area, not bush fire prone, no hazard policy for landslip, subsidence or contamination, not a mine subsidence district.
+- It is dated 20 January 2023 and covers one lot of three.
+- It answers "unknown" on whether the land lies between the flood planning area and the probable maximum flood.
+- **Fix:** current s10.7(2) and (5) certificates for all three lots; one call to council's Waterways team. About a week. Then GREEN.
 
-**Internal consistency → AMBER**
-- Webform, slide copy and register now agree:
-  - 14.09:1
-  - "38 residential storeys plus rooftop plant", led by 133.9 m
-  - three lots including 25 Hume Ave
-  - 3% in perpetuity
-  - no 12:1, no "40-storey", no 15%, no investor wording (sweep, loop 3)
-- **Residual:**
-  - The 3 Oct concept pack PDF still carries the old figures and the wrong p23 red line. It must not be lodged until re-issued under brief B-0.
-  - The storey count is still open with the planner (OD-2).
+**4.1 → GREEN.** Castle Hill is a nominated Low and Mid-Rise centre, so the in-fill bonus base is now known. With the bonus the site yields 34 to 49 homes, under the 100-home threshold. "No other State-assessed pathway" is now arithmetic, not assertion (webform Q50).
+
+**Lot size and isolation → AMBER.**
+- The HDA handled isolated neighbours as a note on three recommended schemes in September ("investigate incorporating the adjacent isolated site"), not as a refusal.
+- Under LMR the LEP minimum lot size is switched off, which weakens 4,000 m² as a principle.
+- **Still to do:** brief B-6, and a record of any approach to neighbours (CA-5).
+
+**Upload compliance → RED (new).** The concept pack is 31 MB; the form takes 20 MB. The site map must be an image file, not a PDF. Mechanical, but it stops lodgement.
+
+## 4.2 — why it is RED and decisive
+
+**Against, from the record:**
+1. **Two refusals on this street, four months ago.** 89–91 Cecil Ave (24 storeys) and 20–26 Hume Ave with 71 Cecil Ave (two 25-storey buildings) were not recommended on 15 June 2026. Reason given: scale "out of context", with "about 12 storeys" named as the control council's recent strategic work would propose "in this area". YANA asks for 38 storeys on the same street.
+2. **The site is in an LMR area, and the HDA is now enforcing LMR.** On 15 September it refused schemes at Sefton, Winston Hills, Engadine and Randwick for exceeding LMR controls it called "appropriate for the site context". The LMR standard at 623 m is 17.5 m. Kiersten Fishburn (DPHI) opened that meeting by noting EOIs that "go above and beyond" recent TOD and LMR planning.
+3. **Density.** 14.09:1 is above the 12.31:1 at 16–20 Old Castle Hill Road, on a smaller site, further from the Metro.
+
+**For, from the record:**
+1. **Castle Hill has declared towers of 36 to 40 storeys**, and the HDA has recommended height multiples of 6× to 12× elsewhere (Five Dock, Wickham). Those sites are in a centre core or within about 250 m of a station.
+2. **244–248 Old Northern Road, on YANA's block, is declared** (up to 200 apartments).
+3. **93–107 Cecil Avenue, 650 m from the Metro on the same street, is under State assessment at 23 to 35 storeys.** If the Department supports that height, "about 12 storeys in this area" no longer describes the area.
+4. **No Hills EOI has been decided since the Sydney Plan commenced** on 13 August 2026. The "changed circumstances" limb of 4.2 is untested here.
+
+**Assessment.** The "for" points are arguments. The "against" points are decisions. An assessor who refused 24 and 25 storeys on Cecil Avenue in June needs a reason to recommend 38 in October. The Sydney Plan is a reason to look again; it does not set a height for this site, and the HDA has used the Sydney Plan to refuse as well as to recommend.
+
+## 3.3 — RED, but second-order
+
+- 3% standing alone is below every recommended general-housing offer read in the August and September records. The lowest recommended were 5% (Mosman, Cremorne, Rose Bay, Pymble, Wickham).
+- Schemes offering 2% and 3% in perpetuity were not recommended in September (Auburn, Ashfield) — though on 4.1 and 4.2, not on 3.3.
+- The criterion says the offer must exceed existing policy and be proportional to uplift. YANA's uplift is among the largest read.
+- The HDA attaches a standard note to recommended rezonings that the rate will be worked through in assessment "with feasibility as a guiding principle". So a low offer is negotiable **after** a recommendation. It will not rescue a 4.2 refusal, and a rate this low gives the assessor a second reason.
 
 ## Ratings that did not move
 
-**2.3 Tenure — AMBER.**
-- Lot mapping is owner-confirmed: Lot 1 = 25 Hume, Lot 2 = 79 Cecil, Lot 3 = 77 Cecil (OA-1).
-- But the Portal reports and s10.7 the owner cites are not in `inputs/`, and there is no ownership or option evidence.
-- **Fix:** upload those files and the title searches (CA-1).
-
-**3.1 Hazards — RED.**
-- The s10.7 for 79 Cecil Ave is not in `inputs/`.
-- A s10.7 speaks only for its own lot. Portal property reports for 25 Hume and 77 Cecil are useful but are not planning certificates.
-- **Fix:** upload the s10.7, ideally one per lot, then quote the flood wording exactly.
-
-**1.2 / 2.2 — AMBER.**
-- The certified EDC (OA-6) and the target start (OA-7) were left unfilled. The named parties (OA-5) also remain open.
-
-**3.3 Affordable housing — RED.** Unchanged. The basis and structure (OA-4) were left unfilled. Evidence as in loop 2:
-
-| Comparator | Scheme | Offer | Outcome |
-|---|---|---|---|
-| 325-329 Old Northern Rd (R-c5) | 5.79:1 | 5% perpetual | proposed (media) |
-| 465 Victoria Ave, Chatswood (R-d1) | 44 storeys | 10% perpetual | declared 15 Sep 2026 |
-| HDA-recommended schemes (R-b3) | — | 15% of GFA perpetual | recommended |
-| 16-20 Old Castle Hill Rd (R-c1) | 40 storeys | 15% for 15 years | declared |
-| 15-17 Ashford Ave (R-c3) | 15 storeys | 10% for 15 years | not recommended |
-
-The criteria tie the offer to the uplift (R-a2, R-a3). YANA's uplift is the largest in the located record; its offer is the smallest.
-
-**4.2 Strategic merit — RED. Slightly harder than in loop 2.**
-- Fixing the FSR at 14.09:1 removes the mitigation of bringing density within the 12.31:1 reported for 16-20 Old Castle Hill Rd (D2 figure, unverified).
-- YANA is now firmly the densest scheme in the located Castle Hill record: smallest site, 623 m from Metro against about 250 m for 16-20 Old Castle Hill Rd.
-- Hills EOIs have failed on 4.2 (R-b4).
-- Appendix D and the SLUP appendices, which might have offered support or set limits, have not arrived.
-- **Fix within the lock:** lead on realisable capacity, Metro access and the Hills target; show the existing-control line honestly (B-3).
-
-**Lot size and isolation — RED.**
-- With 25 Hume Ave inside the site, the neighbours are 81-87 Cecil Ave (8,416 m²) and an unidentified 2,600 m² lot to the south-west. That lot is below the 4,000 m² cl 4.1A minimum on its own.
-- **Fix:** the B-6 study is still to be done; record approaches to neighbours (CA-5).
-
-**4.1, 2.5, prior non-declarations — AMBER.** Need Urbis verification (CA-4), the register search (CA-2) and the HDA records (CA-0). No change possible while the network is blocked.
+- **1.2, 2.2 — AMBER.** One QS figure, the developer's exact status, builder route and funding are still open (OD-5 to OD-7).
+- **2.3 — AMBER.** Title evidence per lot not held.
+- **2.5 — AMBER.** Register search on the three lots not done. The refusals on neighbouring land are not 2.5 matters, but see 4.2.
+- **Internal consistency — AMBER.** Deliverables agree. The pack still carries 40 storeys, 12:1, 15%, a wrong red line, Urbis as planner and a non-existent EOI window. Re-issue under B-0.
 
 ## Declaration probability (judgement, not a forecast)
 
-All three rest on search summaries. Re-base them once the HDA records and criteria are read from source.
+| Position | Estimate | What drives it |
+|---|---|---|
+| **Locked: 38 storeys, 3% perpetual** | **about 10% (5–15%)** | The June Cecil Avenue refusals and the September LMR line. Down from 15%: the record is harder on scale than loop 3 assumed |
+| Locked height, affordable offer raised to 10% (Variant A, B or C) | about 12–15% | Removes the second reason to refuse. Does not touch the first |
+| About 25 storeys, 10% affordable | about 30% (20–40%) | Matches the declared scale on the same block. Still above "about 12 storeys" and above LMR, and 24–25 storeys was refused on this street in June |
+| About 25 storeys, 10% affordable, lodged **after** the Department publicly supports 23–35 storeys at 93–107 Cecil Ave | about 40–50% | The "out of context" reason loses its footing on Cecil Avenue |
 
-**Locked position — about 15% (range 10–20%).**
-- Evidence for:
-  - a declared 40-storey concurrent rezoning in the same centre (R-c1)
-  - Metro at 623 m
-  - consolidated three-lot site
-  - no fundamental servicing constraint (pack p13)
-- Evidence against:
-  - proportionality test (R-a2) against a 5% perpetual offer on a far smaller uplift nearby (R-c5) and a 10% perpetual declaration at Chatswood (R-d1)
-  - the densest scheme in the centre at 14.09:1 (OA-3)
-  - cl 4.1A relief with a sub-minimum neighbour
-  - Hills 4.2 failures (R-b4)
-- The upper bound fell from 25% because the 12:1 mitigation is gone. Closing hazards, tenure and the pack re-issue removes reasons to *defer*; it does not fix the reasons to *refuse*.
+Earlier work on this project put a 25-storey scheme at roughly 185–200 homes, which is still well above the 100-home threshold. The architect would need to confirm the schedule.
 
-**Variant A, 10% of residential GFA in perpetuity — about 35% (range 30–40%).**
-- For:
-  - matches the perpetual rate declared at 465 Victoria Ave, Chatswood, on 15 Sep 2026, for a 44-storey scheme (R-d1)
-  - doubles the 5% perpetual offer at 325-329 Old Northern Rd (R-c5)
-  - meets the perpetuity expectation for significant uplift (R-a3)
-- Against: 4.2 density and isolation are unchanged, and recommended schemes elsewhere offer 15% in perpetuity (R-b3).
-
-**Variant B, 3% in perpetuity plus 12% for 15 years — about 30% (range 25–35%).**
-- For: 15% for the first 15 years equals the declared 16-20 Old Castle Hill Rd offer (R-c1), plus a permanent share that offer lacks.
-- Against: the guidance asks for *perpetual* provision where uplift is significant (R-a3). Only 3% is perpetual, below the 5% at 325-329 Old Northern Rd. An assessor can read the time-limited 12% as the in-fill bonus rate without the in-fill bonus's height limit.
-- Ranked below A for that reason.
+**Two costs of a refusal that the locked position should be weighed against:**
+1. **Resubmission is restricted.** A not-supported EOI is only reconsidered if it "positively and materially" addresses the reason (criterion 2.5). The second attempt would have to be the lower scheme anyway, 60 days later.
+2. **The refusal is published.** Records go up within 14 days with the reason stated. For a strategy that ends in selling the site, a public "scale out of context" finding against it is a cost in its own right.

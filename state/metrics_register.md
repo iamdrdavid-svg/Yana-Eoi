@@ -1,6 +1,6 @@
 # Metrics register — Project YANA
 
-Loop 3 state · 5 Oct 2026 · Owner answers of 5 Oct 2026 recorded (OA-1 to OA-7). The new inputs the owner listed (s10.7 for 79 Cecil, Portal reports for 25 Hume and 77 Cecil, s9.1 Direction, Sydney Plan Appendix D, SLUP Appendices A–E) are **not** in `./inputs` as at loop 3. Network is still blocked. Only source in `./inputs`: `HDA_Concept_Pack_1.pdf`. The pack says Furtado Sullivan / Arcadia / PVDM made it, in Canva, on 3 Oct 2026 (29 pp, A3). Pages below are the PDF page numbers. The printed page numbers on the sheets run one behind.
+Loop 4 state · 7 Oct 2026 · Owner answers of 5 Oct 2026 recorded (OA-1 to OA-7). **New in loop 4:** the s10.7 certificate for 79 Cecil Ave is now in `./inputs` (uploaded 6 Oct), and DPHI and Planning Portal pages were read (research log sections h–l). Still not in `./inputs`: Portal reports for 25 Hume and 77 Cecil, title searches, QS report. Sources in `./inputs`: `HDA_Concept_Pack_1.pdf` and `s10.7 Planning Certificate 79 Cecil Ave.pdf`. The pack says Furtado Sullivan / Arcadia / PVDM made it, in Canva, on 3 Oct 2026 (29 pp, A3). Pages below are the PDF page numbers. The printed page numbers on the sheets run one behind.
 
 Reference-only material, not in `./inputs`. These are owner drafts in Google Drive. They can help locate facts but cannot confirm them:
 - **D1** `YANA_HDA_EOI_Webform_Answers` (11 Jul 2026, 40-storey scheme)
@@ -13,14 +13,18 @@ Status key: **CONFIRMED** = stated in `./inputs`, or fixed by the owner's locked
 | # | Metric | Value | Source | Status |
 |---|---|---|---|---|
 | A1 | Site area | 2,048 m² | Pack p2, p23 (site plan, 34 m × 60 m frontages); locked position | CONFIRMED |
-| A2 | Street addresses forming the site | 77 Cecil Ave, 79 Cecil Ave and 25 Hume Ave — three lots, 2,048 m² in total. The pack p23 red line, which leaves 25 Hume Ave out, is a drawing error (owner). The 2,600 m² lot on p23 is therefore some other adjoining lot; its address is unknown | Owner answer OA-1 (5 Oct 2026). Owner cites Portal reports and the s10.7 — **not yet in ./inputs** | **CONFIRMED BY OWNER**; file verification pending. Correction added to brief B-0/B-6 |
-| A3 | Title | Lot 1 DP 713156 = 25 Hume Ave; Lot 2 DP 713156 = 79 Cecil Ave; Lot 3 DP 713156 = 77 Cecil Ave | OA-1 | CONFIRMED BY OWNER; source files not in inputs. Ownership/option evidence still MISSING |
-| A4 | Zone | R4 High Density Residential | Pack p14; locked position | CONFIRMED |
+| A2 | Street addresses forming the site | 77 Cecil Ave, 79 Cecil Ave and 25 Hume Ave — three lots, 2,048 m² in total. The pack p23 red line, which leaves 25 Hume Ave out, is a drawing error (owner). The 2,600 m² lot on p23 is therefore some other adjoining lot; its address is unknown | Owner answer OA-1 (5 Oct 2026). s10.7 cert 121562 confirms **79 Cecil Ave = Lot 2 DP 713156** | Lot 2 **CONFIRMED (input)**. Lots 1 and 3 CONFIRMED BY OWNER; Portal reports not in inputs. Correction added to brief B-0/B-6 |
+| A3 | Title | Lot 1 DP 713156 = 25 Hume Ave; Lot 2 DP 713156 = 79 Cecil Ave; Lot 3 DP 713156 = 77 Cecil Ave | OA-1; s10.7 (Lot 2) | Lot 2 CONFIRMED (input); Lots 1 and 3 by owner. Ownership/option evidence still MISSING |
+| A4 | Zone | R4 High Density Residential. Residential flat buildings and shop top housing are permitted with consent | Pack p14; s10.7 cert 121562 and its Attachment 2(b) (as at 20 Jan 2023) | CONFIRMED (input) |
 | A5 | Height of buildings (LEP) | 16 m | Locked position. The p14 map has no legible value | CONFIRMED (locked) |
 | A6 | FSR (LEP) | No mapped FSR | Pack p14 ("no Floor Space Ratio control applied"); locked position. D2 claims a "3.5:1 base control (cl 7.11)", which conflicts | CONFIRMED (pack + locked). D2 claim unverified, see R-g3 |
-| A7 | Minimum lot size for a residential flat building | cl 4.1A: 4,000 m² (site is 51% of it) | Locked position. Primary text not read (legislation.nsw.gov.au blocked) | CONFIRMED (locked); primary text UNVERIFIED |
+| A7 | Minimum lot size for a residential flat building | cl 4.1A: 4,000 m² (site is 51% of it). Note: the clause names residential flat buildings, not shop top housing — planner to advise which the scheme is (CA-4g). Under LMR the LEP lot-size standard is switched off (R-k3) | Locked position. Primary text not read (legislation.nsw.gov.au returned 403) | CONFIRMED (locked); primary text UNVERIFIED |
 | A8 | Walk to Castle Hill Metro | about 623 m | Pack p2, p3; locked position. p7: "within a 10-minute walk". D2: 570 m. D1: "~13-minute walk" | CONFIRMED at 623 m. The measured route (which entrance, which site point) is MISSING |
-| A9 | Flood status | No flood statement anywhere in this pack version. The owner says a s10.7 for 79 Cecil Ave exists, but it is **not in ./inputs**. No certificate held for 25 Hume or 77 Cecil (the owner cites Portal reports, which are not s10.7 certificates). D1/D2 assert "not in a flood planning area" (unverified) | — | **MISSING** (upload the s10.7; ideally one per lot) |
+| A9 | Flood status | **79 Cecil Ave (Lot 2): within the flood planning area and subject to flood related development controls — NO. Between the flood planning area and the probable maximum flood — UNKNOWN** (council refers the question to its Waterways team, 9843 0555). No certificate held for 25 Hume or 77 Cecil | s10.7(2) cert 121562, item 9, **issued 20 Jan 2023** | **CONFIRMED for Lot 2 as at Jan 2023.** The certificate is 3 years 9 months old and covers one of three lots. Current certificates for all three lots are needed before the form's hazard box is ticked (CA-3) |
+| A12 | Other hazards, 79 Cecil Ave | Bush fire prone land: NO ("None of the land is bushfire prone land"). No adopted policy restricting development for landslip, subsidence, acid sulfate soils, contamination, aircraft noise or salinity. Mine subsidence district: NO. Contaminated Land Management Act matters (a)–(e): all NO. Loose-fill asbestos register: not notified | s10.7 cert 121562, items 10–13 and CLM Act note | CONFIRMED for Lot 2 as at Jan 2023 |
+| A13 | Heritage, acquisition, road widening, 79 Cecil Ave | Heritage item on the land: NO. Conservation area: NO. Land reserved for acquisition: NO. Road widening or realignment: NO. Additional permitted uses: NO. No proposed LEP or SEPP applied at that date | s10.7 cert 121562, items 2, 7, 8 | CONFIRMED for Lot 2 as at Jan 2023 |
+| A14 | Contributions plan | **The Hills Section 7.12** contributions plan. Not in a special contributions area (2023; the Housing and Productivity Contribution postdates the certificate) | s10.7 cert 121562, item 3 | CONFIRMED for Lot 2 as at Jan 2023 |
+| A15 | Low and Mid-Rise housing area | Castle Hill station and town centre is a nominated LMR centre. At 623 m from the station the site is in the outer area (17.5 m, 4 storeys, 1.5:1) unless it is within 400 m of the town centre itself (22 m, 6 storeys, 2.2:1) | R-k2, R-k3 (READ) | CONFIRMED that LMR applies to the centre; inner or outer for this site — planner to confirm (CA-4b) |
 | A10 | Heritage | Items nearby: Former Castle Hill Public School, St Paul's Cemetery, Wansbrough House. "Likely not" a direct impact | Pack p10 | CONFIRMED (as a design-team statement) |
 | A11 | Existing dwellings on site (for net yield) | Not stated. D2 says "[3]" in brackets | — | MISSING |
 
@@ -49,7 +53,7 @@ Status key: **CONFIRMED** = stated in `./inputs`, or fixed by the owner's locked
 
 | # | Metric | Value | Source | Status |
 |---|---|---|---|---|
-| C1 | EOI window | "HDA EOI 10 Aug–30 Oct 2026" | Pack p26 | CONFIRMED as the pack's assumption. No primary source found that the HDA runs a window closing 30 Oct (see R-a5) |
+| C1 | EOI window | "HDA EOI 10 Aug–30 Oct 2026" | Pack p26 | **WRONG.** There is no window. EOIs are taken continuously and considered within 60 days (R-h9). Remove the window from the pack (B-0) |
 | C2 | SEARs → SSDA lodgement | 22 Jan 2027 → 1 Oct 2027 (about 8.3 months, inside 9) | Pack p26 | CONFIRMED |
 | C3 | Assessment | 4 Oct 2027 – 10 Oct 2028, labelled "275-day target". The dates span 372 days | Pack p26 | CONFIRMED, with an internal inconsistency in the label |
 | C4 | Construction start | Pack: "latest start" by 10 Oct 2029 (approval + 12 months). D2: Q1 2028 target (superseded scheme) | Pack p26 vs D2; OA-7 | Deadline by 10 Oct 2029 (pack). Target start: **NOT YET DECIDED** (OA-7 left blank) |
@@ -59,6 +63,16 @@ Status key: **CONFIRMED** = stated in `./inputs`, or fixed by the owner's locked
 | C8 | Land tenure evidence | Pack p3: "Consolidated ownership" | Pack p3 | CONFIRMED as a statement. Title or option evidence MISSING |
 | C9 | Council pre-lodgement contact | Not stated | — | MISSING |
 | C10 | Political donations | Not stated | — | MISSING |
+
+## C2. Lodgement mechanics (read from the live form, 7 Oct 2026)
+
+| # | Item | Value | Source | Status |
+|---|---|---|---|---|
+| F1 | Form | 60 questions on six pages; question list DPHI-MC-SD-V3 (June 2026) | R-h7, R-h8 | CONFIRMED (READ) |
+| F2 | Site map upload | PNG, JPG or TIF; 20 MB | R-h8 | CONFIRMED (READ) |
+| F3 | Concept scheme upload | PDF, DOC or DOCX; 20 MB. Must show site area, site context, envelope massing, envelope comparison (current vs proposed) | R-h7, R-h8 | CONFIRMED (READ). **The 3 Oct pack is 31 MB and will not upload** |
+| F4 | Word and page limits | None shown on the form or the question list | R-h8 | No limit found; re-check at the keyboard |
+| F5 | Height | Q15 asks for height in storeys | R-h7 | CONFIRMED (READ) |
 
 ## D. Superseded figures — must not appear in the deliverables
 
@@ -70,7 +84,9 @@ Status key: **CONFIRMED** = stated in `./inputs`, or fixed by the owner's locked
 - Investor wording (pack p20: "highly strategic investment opportunity", "offers investors a de-risked entry point") → remove. This is Rule 4 and Rule 7 territory, and it invites an adverse reading by the HDA.
 - "TOD targets" / "TOD/HDE future context" (pack p19-20) → no primary source puts Castle Hill in a TOD program (see R-f1). Remove or substantiate.
 - "LEP/LMR + 30% AH" capacity envelope (pack p19-20) → unverified that the Low and Mid-Rise provisions apply to this site. Urbis to confirm.
-- 325-329 Old Northern Rd "SEARs expired" (pack p16) → media of Sep–Oct 2026 reports a live SSD-135694240 for this site (R-c5). Recheck.
+- 325-329 Old Northern Rd "SEARs expired" (pack p16) → the Portal page for SSD-86785964 does say "SEARs Expired" (R-j7). Media reports a newer SSD-135694240, not read. State both or neither.
+- "HDA EOI 10 Aug–30 Oct 2026" (pack p26) → there is no EOI window (R-h9).
+- In-fill bonus height "about 20.8 m" (16 m × 1.3) → use the LMR-based figures: 22.75 m and 1.95:1 (outer area) or 28.6 m and 2.86:1 (inner area), planner to confirm which (research log section l, item 7).
 
 ## E. Owner answers received 5 Oct 2026 (loop 3)
 

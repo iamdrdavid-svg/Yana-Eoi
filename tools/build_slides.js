@@ -17,7 +17,7 @@ function buildMarkdown() {
   const L = [];
   L.push(`# ${META.title} — concept scheme slide copy`, "");
   L.push(`**${META.status}**`, "");
-  L.push("Every statement is tagged **FACT (source)**, **DESIGN PROPOSITION** or **MATTER FOR FUTURE ASSESSMENT**. Source IDs refer to `state/metrics_register.md` (pack pages) and `state/research_log.md` (R-…). R-references are search-located and must be verified before lodgement. Drawings are placeholders; each cites a brief in the appendix. Generated from `tools/slides_data.js` — edit there, then rebuild.", "");
+  L.push("Every statement is tagged **FACT (source)**, **DESIGN PROPOSITION** or **MATTER FOR FUTURE ASSESSMENT**. Source IDs refer to `state/metrics_register.md` (pack pages) and `state/research_log.md` (R-…). R-h to R-k references were read from source on 7 Oct 2026; earlier R-references are search-located. The planner checks all of them before lodgement. Drawings are placeholders; each cites a brief in the appendix. Generated from `tools/slides_data.js` — edit there, then rebuild.", "");
   let n = 0;
   for (const s of SLIDES) {
     n++;

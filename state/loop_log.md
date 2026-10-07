@@ -78,3 +78,37 @@
 
 **Stop condition**
 - Not met. Paused again for the uploads and OD-4 to OD-7.
+
+## Loop 4 — 7 Oct 2026
+
+**Inputs**
+- s10.7 certificate for 79 Cecil Ave found in `inputs/` (uploaded 6 Oct). Issued 20 Jan 2023; Lot 2 only.
+- DPHI and Planning Portal pages opened through the page-reading tool. Shell network still blocked; legislation.nsw.gov.au returned 403.
+
+**Phase 1 — research upgraded from search to source**
+- Read: criteria V2, question list V3, the live form, records of 15 Jun, 18 Aug and 15 Sep 2026, three Castle Hill SSD pages, Sydney Plan page, Appendix D, SLUP Appendix E, LMR pages. Logged as R-h to R-k.
+- The 22 June record was cut short by the tool; 57-63 Old Castle Hill Rd not re-read.
+
+**Findings that change the strategy**
+- The HDA decides on 4.2, read as scale in context with recent strategic planning. Affordable housing is rarely the stated reason.
+- Both Cecil Avenue EOIs were refused on 15 June at 24 and 25 storeys, "about 12 storeys" named for the area.
+- Castle Hill is an LMR centre; the HDA refused several schemes on 15 Sep for exceeding LMR controls.
+- No Hills EOI has been decided since the Sydney Plan commenced.
+- No general-housing scheme under 5% affordable in total was found recommended.
+- No EOI window exists. Uploads are capped at 20 MB; the pack is 31 MB.
+
+**Phase 2**
+- Webform rebuilt on the live Q1–Q60 numbering.
+- Hazards (Q41–Q42) and contributions (Q36) drafted from the certificate, held behind a bracket until current certificates for all three lots arrive.
+- In-fill bonus answer (Q50) rebuilt on LMR arithmetic: 34 to 49 homes, under the 100-home threshold.
+- Strategic merit (Q48) rewritten around changed circumstances and same-street context.
+- Affordable variants reset to recommended precedents: A 10% perpetual; B 5% + 5%; C 3% + 7% (owner's September direction).
+- Slides updated: hazards, pathway arithmetic, comparator sources, strategic framework.
+
+**Phase 3**
+- Hazards RED to AMBER. 4.1 AMBER to GREEN. Lot size and isolation RED to AMBER. New RED: upload compliance.
+- 4.2 stays RED and is now marked decisive. 3.3 stays RED, second-order.
+- Probability: locked about 10% (5–15%); about 25 storeys with 10% affordable about 30%; the same lodged after a favourable 93–107 Cecil outcome about 40–50%.
+
+**Stop condition**
+- Not met. Paused for owner decisions D-1 to D-5 and the documents listed in `outputs/owner_decisions.md`.
